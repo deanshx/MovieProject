@@ -2,6 +2,9 @@ import csv
 import re
 import matplotlib.pyplot as plt
 
+clk_1_size = 0
+clk_2_size = 0
+first_clk_2 = 0
 
 # Script clean receives a path to a script.txt file
 # The function cleans the script of all words that are not - who spoke them or what they said
@@ -88,6 +91,11 @@ def extract_clks(path):
 # and creates a new CSV file that contains the normalized clocks: N(C1) & N(C2)
 # and their difference in column 3 (Clock1 - Clock2) that will be needed later
 def normal_clks(path):
+
+    global clk_1_size
+    global clk_2_size
+    global first_clk_2
+
     n_clks_csv = open('n_clks.csv', 'w', newline='' )
     csv_file = open(path, 'r')
     csv_reader = csv.reader(csv_file)
@@ -146,6 +154,33 @@ def clean_subtitles(path):
         output = re.sub("[\(\[</].[\s\S]*?[\>\)\]]", "", input)
         clean_txt1 = open("clean_subtitles.txt", "w")
         clean_txt1.write(output)
+
+
+def finding_ts(normal_critical_word, path):
+
+    global clk_1_size
+    global clk_2_size
+    global first_clk_2
+
+    critical_word = (normal_critical_word * clk_2_size) + first_clk_2  # This is how we extract the word number
+
+    with open(path, "r") as txt_file:
+        line = txt_file.readline()
+        word_count = 0
+        tmp_ts = ''
+        while line:
+            if line[0].isdigit() == False:
+                word_count += len((line.strip()).split())
+                if word_count >= critical_word:
+                    return tmp_ts
+            if line[0] == '0':
+                tmp_ts = line
+            line = txt_file.readline()
+
+
+
+
+
 
 
 
