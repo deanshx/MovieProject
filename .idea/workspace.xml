@@ -3,12 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="6111d532-e018-4186-afb1-54a29298fc44" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8MM.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/algorithm.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/algorithm_testing.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm_testing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clean_script.txt" beforeDir="false" afterPath="$PROJECT_DIR$/clean_script.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clks.csv" beforeDir="false" afterPath="$PROJECT_DIR$/clks.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mycsv.csv" beforeDir="false" afterPath="$PROJECT_DIR$/mycsv.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/n_clks.csv" beforeDir="false" afterPath="$PROJECT_DIR$/n_clks.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clean_script.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clks.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycsv.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/n_clks.csv" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,11 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/algorithm.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="458">
-              <caret line="219" column="31" lean-forward="true" selection-start-line="219" selection-start-column="31" selection-end-line="219" selection-end-column="31" />
+            <state relative-caret-position="640">
+              <caret line="243" column="37" lean-forward="true" selection-start-line="243" selection-start-column="37" selection-end-line="243" selection-end-column="37" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -30,11 +31,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/algorithm_testing.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="433">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="156">
+              <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
               <folding>
                 <element signature="e#0#16#0" expanded="true" />
               </folding>
@@ -70,8 +71,8 @@
         <option value="$PROJECT_DIR$/venv/Lib/site-packages/MplayerCtrl.py" />
         <option value="$PROJECT_DIR$/movie_player.py" />
         <option value="$PROJECT_DIR$/Player.py" />
-        <option value="$PROJECT_DIR$/algorithm_testing.py" />
         <option value="$PROJECT_DIR$/algorithm.py" />
+        <option value="$PROJECT_DIR$/algorithm_testing.py" />
       </list>
     </option>
   </component>
@@ -261,7 +262,14 @@
       <option name="project" value="LOCAL" />
       <updated>1546510951639</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1540">
+      <created>1546522828353</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1546522828353</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -273,14 +281,14 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.52687037" visible="true" weight="0.22535211" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.5300316" visible="true" weight="0.31960997" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4993421" weight="0.39934355" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32936078" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49736565" weight="0.3261105" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.4731296" side_tool="true" visible="true" weight="0.22535211" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.46996838" side_tool="true" visible="true" weight="0.31960997" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -289,7 +297,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="12:22" />
-    <option name="LAST_COMMIT_MESSAGE" value="12:22" />
+    <MESSAGE value="1540" />
+    <option name="LAST_COMMIT_MESSAGE" value="1540" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../twoClksAlgo.py" />
@@ -344,22 +353,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm_testing.py">
+    <entry file="file://C:/Python3/Lib/re.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="e#0#16#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="230">
+          <caret line="191" selection-start-line="191" selection-end-line="191" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/algorithm.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="458">
-          <caret line="219" column="31" lean-forward="true" selection-start-line="219" selection-start-column="31" selection-end-line="219" selection-end-column="31" />
+        <state relative-caret-position="640">
+          <caret line="243" column="37" lean-forward="true" selection-start-line="243" selection-start-column="37" selection-end-line="243" selection-end-column="37" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm_testing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
           </folding>
         </state>
       </provider>

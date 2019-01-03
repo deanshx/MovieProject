@@ -197,12 +197,29 @@ def finding_ts(normal_critical_word, path):
 
 
 # Checking the similarity between the SRT file and script file
-def similarity_srt_script(srt_path, script_path, space_to_name):
+def creating_files_for_compare(srt_path, script_path, space_to_name):
     with open(srt_path, "r") as f:
         tmp_txt = open("tmp_srt.txt", "w")
         input = f.read()
         output = "".join(c for c in input if c not in punctuation)
         tmp_txt.write(output)
+
+    with open('tmp_srt.txt', "r") as f:
+        tmp_txt = open("comparison_srt.txt", "w")
+        line = f.readline()
+        while line:
+            if not line[0].isdigit():
+                line = line.replace("\n", " ")
+                tmp_txt.write(line)
+            line = f.readline()
+
+    with open("comparison_srt.txt", "r") as f:
+        tmp_txt = open("comparison_srt_1.txt", "w")
+        line = f.readline()
+        while line:
+            line = re.sub("\s\s+", " ", line)
+            tmp_txt.write(line)
+            line = f.readline()
 
     with open(script_path, "r") as f:
         tmp_txt = open("tmp_script.txt", "w")
@@ -211,13 +228,26 @@ def similarity_srt_script(srt_path, script_path, space_to_name):
         tmp_txt.write(output)
 
     with open('tmp_script.txt', "r") as f:
-        tmp_txt = open("no_name_script.txt", "w")
+        tmp_txt = open("comparison_script.txt", "w")
         line = f.readline()
         while line:
             ws_count = len(line) - len(line.lstrip(' '))
             if ws_count != space_to_name:
+                line = line.strip(" ")
+                line = line.replace("\n"," ")
+                line = re.sub("\s\s+", " ", line)
                 tmp_txt.write(line)
             line = f.readline()
+
+
+def similarity_srt_script(script, srt):
+    with open(script, "r") as script:
+        with open(srt, "r") as srt:
+            str1 = script.read()
+            print(str1)
+            str2 = srt.read()
+            #print(str2)
+            print(SequenceMatcher(None, str1, str2).ratio())
 
 
 
