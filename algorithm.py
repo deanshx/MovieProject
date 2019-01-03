@@ -1,10 +1,13 @@
 import csv
 import re
 import matplotlib.pyplot as plt
+from difflib import SequenceMatcher
+from string import punctuation
 
 clk_1_size = 0
 clk_2_size = 0
 first_clk_2 = 0
+
 
 # Script clean receives a path to a script.txt file
 # The function cleans the script of all words that are not - who spoke them or what they said
@@ -13,7 +16,6 @@ def script_clean(path, spc_to_speaker, spc_to_sent):
     clean_txt = open("clean_script.txt", "w")
     with open(path, "r") as txt_file:
         line = txt_file.readline()
-        ws_count = 0
         while line:
             # print ("Leading spaces", len(line) - len(line.lstrip(' ')))
             ws_count = len(line) - len(line.lstrip(' '))  # This calculated the number of preceeding whitespaces in each line
@@ -22,7 +24,7 @@ def script_clean(path, spc_to_speaker, spc_to_sent):
             line = txt_file.readline()
 
     with open("clean_script.txt", "r") as f:  # Cleaning the script from any instances of parentheses
-        input = f.read()                     #  using REGEX that goes through the entire file
+        input = f.read()                      # using REGEX that goes through the entire file
         output = re.sub("[\(\[].[\s\S]*?[\)\]]", "", input)
         clean_txt1 = open("clean_script.txt", "w")
         clean_txt1.write(output)
@@ -96,7 +98,7 @@ def normal_clks(path):
     global clk_2_size
     global first_clk_2
 
-    n_clks_csv = open('n_clks.csv', 'w', newline='' )
+    n_clks_csv = open('n_clks.csv', 'w', newline='')
     csv_file = open(path, 'r')
     csv_reader = csv.reader(csv_file)
     csv_writer = csv.writer(n_clks_csv)
@@ -156,26 +158,69 @@ def clean_subtitles(path):
         clean_txt1.write(output)
 
 
-def finding_ts(normal_critical_word, path):
+# This function receives the normal_clks and applies math to find critical word
+def finding_norm_critical_word(path):
+    csv_file = open(path, 'r')
+    csv_reader = csv.reader(csv_file)
 
-    global clk_1_size
+
+#Function receives normal_speaker_change and returns normal_word_count
+def extract_normal_word(normal_critical_speaker, path):
+    csv_file = open(path, 'r')
+    csv_reader = csv.reader(csv_file)
+    next(csv_reader)
+    for line in csv_reader:
+        if float(line[0]) == normal_critical_speaker:
+            return float(line[1])
+
+
+# This function gets the normal critical word and returns their timestamp
+def finding_ts(normal_critical_word, path):
     global clk_2_size
     global first_clk_2
 
-    critical_word = (normal_critical_word * clk_2_size) + first_clk_2  # This is how we extract the word number
-
+    # This is how we extract the word number
+    critical_word = (normal_critical_word * clk_2_size) + first_clk_2
+    print("Critical word number is", critical_word)
     with open(path, "r") as txt_file:
         line = txt_file.readline()
         word_count = 0
         tmp_ts = ''
         while line:
-            if line[0].isdigit() == False:
+            if not line[0].isdigit():
                 word_count += len((line.strip()).split())
                 if word_count >= critical_word:
                     return tmp_ts
             if line[0] == '0':
                 tmp_ts = line
             line = txt_file.readline()
+
+
+# Checking the similarity between the SRT file and script file
+def similarity_srt_script(srt_path, script_path, space_to_name):
+    with open(srt_path, "r") as f:
+        tmp_txt = open("tmp_srt.txt", "w")
+        input = f.read()
+        output = "".join(c for c in input if c not in punctuation)
+        tmp_txt.write(output)
+
+    with open(script_path, "r") as f:
+        tmp_txt = open("tmp_script.txt", "w")
+        input = f.read()
+        output = "".join(c for c in input if c not in punctuation)
+        tmp_txt.write(output)
+
+    with open('tmp_script.txt', "r") as f:
+        tmp_txt = open("no_name_script.txt", "w")
+        line = f.readline()
+        while line:
+            ws_count = len(line) - len(line.lstrip(' '))
+            if ws_count != space_to_name:
+                tmp_txt.write(line)
+            line = f.readline()
+
+
+
 
 
 
