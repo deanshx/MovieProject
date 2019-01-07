@@ -1,5670 +1,6996 @@
+0
+
 1
-2
 000047960  000052840
- Once upon a time
+Once upon a time
 there was a lovely princess
 
-3
+2
 000052920  000056680
 But she had an enchantment
 upon her of a fearful sort
 
-4
+3
 000056760  000101640
 which could only be broken
 by loves first kiss
 
-5
+4
 000101720  000104060
 She was locked away
 in a castle
 
-6
+5
 000104140  000108360
 guarded by a terrible
 firebreathing dragon
 
-7
+6
 000108440  000112820
 Many brave knights had attempted
 to free her from this dreadful prison
 
-8
+7
 000112900  000115650
 but none prevailed
 
-9
+8
 000115740  000117910
 She waited in
 the dragons keep
 
-10
+9
 000117990  000120910
 in the highest room
 of the tallest tower
 
-11
+10
 000120990  000125540
 for her true love
-and true loves first kiss 
+and true loves first kiss
 
-12
+11
 000125620  000128580
 
 Like thats ever gonna happen
 
-13
+12
 000128670  000132420
  
  What a load of
 
+13
+000132500  000137090
+Somebody once told me
+the world is gonna roll me
 
-44
+14
+000137180  000141140
+I am not the sharpest tool
+in the shed
+
+15
+000141220  000146140
+She was looking kind of dumb
+with her finger and her thumb
+
+16
+000146230  000149940
+In the shape of an L
+on her forehead
+
+17
+000150020  000152940
+The years start coming
+and they dont stop coming
+
+18
+000153030  000155860
+Fed to the rules
+and I hit the ground running
+
+19
+000155940  000158200
+Didnt make sense
+not to live for fun
+
+20
+000158280  000200490
+Your brain gets smart
+but your head gets dumb
+
+21
+000200570  000202490
+So much to do
+So much to see
+
+22
+000202580  000205160
+So whats wrong with
+taking the backstreets
+
+23
+000205250  000207290
+Youll never know
+if you dont go
+
+24
+000207370  000209830
+Youll never shine
+if you dont glow
+
+25
+000209920  000211840
+Hey now
+Youre an allstar
+
+26
+000211920  000214300
+Get your game on go play
+
+27
+000214380  000218300
+Hey now youre a rock star
+Get the show on get paid
+
+28
+000218380  000222350
+And all that
+glitters is gold
+
+29
+000222430  000227850
+Only shooting stars
+break the mould
+
+30
+000227940  000229940
+Its a cool place
+and they say it gets colder
+
+31
+000230020  000232190
+Youre bundled up now
+but wait till you get older
+
+32
+000232270  000234400
+But the meteor men
+beg to differ
+
+33
+000234480  000236400
+Judging by the hole
+in the satellite picture
+
+34
+000236490  000239200
+The ice we skate
+is getting pretty thin
+
+35
+000239280  000241240
+The waters getting warm
+so you might as well swim
+
+36
+000241320  000243240
+My worlds on fire
+How bout yours
+
+37
+000243330  000245990
+Thats the way I like it
+and Ill never get bored
+
+38
+000246080  000248710
+ Hey now youre an allstar
+ 
+
+39
+000248790  000252380
+Get your game on go play
+
+40
+000252460  000255590
+Hey now youre a rock star
+Get the show on get paid
+
+41
+000255670  000259380
+And all that
+glitters is gold
+
+42
+000259470  000304390
+Only shooting stars
+break the mould
+
+43
 000304470  000307020
 
 
-45
+44
 000308310  000310230
  Go
  Go
 
-46
+45
 000310310  000313440
  
  Go Go Go
 
-52
+46
+000313520  000316070
+Hey now
+Youre an allstar
+
+47
+000316150  000319240
+Get your game on go play
+
+48
+000319320  000323570
+Hey now youre a rock star
+Get the show on get paid
+
+49
+000323660  000327540
+And all that
+glitters is gold
+
+50
+000327620  000332920
+Only shooting stars
+break the mould
+
+51
 000337630  000340880
  Think its in there
  AI right Lets get it
 
-53
+52
 000340970  000343720
 Whoa Ho Id on Do you know
 what that thing can do to you
 
-54
+53
 000343800  000346760
 Yeah itll grind
 your bones for its bread
 
-55
+54
 000346850  000350810
  Yes well actually
 that would be a giant
 
-56
+55
 000350890  000354940
 Now ogres
 Theyre much worse
 
-57
+56
 000355020  000357940
 Theyll make a suit
 from your freshly peeled skin
 
-58
+57
 000358030  000400110
  No
  Theyll shave your liver
 
-59
+58
 000400190  000403450
 Squeeze the jelly
 from your eyes
 
-60
+59
 000403530  000406070
  Actually its quite good on toast
  Back Back beast
 
-61
+60
 000406160  000408290
 Back I warn ya
 
-62
+61
 000411210  000414580
  
  Right
 
-63
+62
 000414670  000417420
 
 
-64
+63
 000417500  000422260
  
  
 
-65
+64
 000422340  000425680
 
 
-66
+65
 000425760  000429350
 
 
-67
+66
 000429430  000433980
  This is the part
 where you run away
 
-68
+67
 000434060  000437270
  
  
 
-69
+68
 000437360  000440690
 
 
-70
+69
 000440780  000443820
 And stay out
 
-71
+70
 000445700  000448780
 Wanted Fairy tale creatures
 
-72
+71
 000450410  000452330
 
 
-73
+72
 000454210  000456670
 
 All right This ones full
 
-74
+73
 000457290  000459380
  Take it away
  
 
-75
+74
 000459460  000503340
  Move it along Come on Get up
  Next
 
-76
+75
 000503420  000506340
 Give me that
 Your flying days are over
 
-77
+76
 000506430  000509050
 Thats 20 pieces of silver
 for the witch Next
 
-78
+77
 000509140  000511850
  Get up Come on
  Twenty pieces
 
-79
+78
 000511930  000514310
  
  Sit down there
 
-80
+79
 000514390  000516900
  Keep quiet
  
 
-81
+80
 000516980  000519860
 This cage is too small
 
-82
+81
 000519940  000522030
 Please dont turn me in
 Ill never be stubborn again
 
-83
+82
 000522110  000524110
 I can change
 Please Give me another chance
 
-84
+83
 000524190  000526570
  Oh shut up
  Oh
  Next
 
-85
+84
 000526660  000529530
  What have you got
  This little wooden puppet
 
-86
+85
 000529620  000534540
 Im not a puppet
 Im a real boy
 
-87
+86
 000534620  000537000
 Five shillings
 for the possessed toy
 
-88
+87
 000537080  000539170
  Take it away
  Father please
 Dont let them do this
 
-89
+88
 000539250  000541170
  Help me
  Next What have you got
 
-90
+89
 000541250  000543880
  Well Ive got a talking donkey
  
 
-91
+90
 000543960  000548510
 Right Well thats good for
 ten shillings if you can prove it
 
-92
+91
 000548590  000552510
 Oh go ahead little fella
 
-93
+92
 000552600  000554520
 Well
 
-94
+93
 000554600  000557310
 Oh oh hes just
 Hes just a little nervous
 
-95
+94
 000557390  000601360
 Hes really quite a chatterbox
 Talk you bone headed dolt
 
-96
+95
 000601440  000604030
 Thats it Ive heard enough Guards
  No no he talks
 
-97
+96
 000604110  000608240
 He does I can talk
 I love to talk
 
-98
+97
 000608320  000611240
 Im the talkingest
 damn thing you ever saw
 
-99
+98
 000611330  000613870
  Get her out of my sight
  No no
 
-100
+99
 000613950  000618370
 I swear Oh
 He can talk
 
-101
+100
 000618460  000620630
 
 
-102
+101
 000620710  000623090
 Hey I can fly
 
-103
+102
 000623170  000624800
  He can fly
  He can fly
 
-104
+103
 000624880  000627930
  He can talk
  Ha ha Thats right fool
 
-105
+104
 000628010  000630260
 Now Im a flying
 talking donkey
 
-106
+105
 000630340  000632970
 You might have seen a house fly
 maybe even a super fly
 
-107
+106
 000633060  000636100
 but I bet you are not
 never seen a donkey fly
 
-108
+107
 000636180  000638100
 Ha ha
 
-109
+108
 000638190  000640100
 Uhoh
 
-110
+109
 000640190  000642400
 
 
-111
+110
 000642480  000644440
 Seize him
 
-112
+111
 000646400  000649240
 After him
 Hes getting away
 
-113
+112
 000654580  000657000
 
 
-114
+113
 000657080  000700290
 
 Get him This way Turn
 
-115
+114
 000705500  000707800
 You there Ogre
 
-116
+115
 000707880  000710180
 Aye
 
-117
+116
 000710260  000714350
 By the order of Lord Farquaad
 I am authorised to place
 you both under arrest
 
-118
+117
 000714430  000720020
 and transport you to
 a designated resettlement facility
 
-119
+118
 000720100  000724150
 Oh really
 You and what army
 
-120
+119
 000727570  000729150
 
 
-121
+120
 000729240  000731150
 
 
-122
+121
 000734910  000736910
 Can I say something to you
 
-123
+122
 000736990  000740330
 Listen you was really really something
 back there Incredible
 
-124
+123
 000740410  000746170
 Are you talking to
 me Whoa
 
-125
+124
 000746250  000750220
 Yes I was talking to you Can I
 tell you that you was great back there
 Those guards
 
-126
+125
 000750300  000753010
 They thought they was all of that
 Then you showed up and bam
 
-127
+126
 000753090  000755050
 They was tripping over themselves
 like babes in the woods
 
-128
+127
 000755140  000757060
 That really made me
 feel good to see that
 
-129
+128
 000757140  000800180
  Oh thats great Really
  Man its good to be free
 
-130
+129
 000800270  000805810
 Now why dont you go celebrate your
 freedom with your own friends Hmm
 
-131
+130
 000805900  000809190
 But uh I dont
 have any friends
 
-132
+131
 000809280  000811950
 And Im not going
 out there by myself
 
-133
+132
 000812030  000814570
 Hey wait a minute I got
 a great idea Ill stick with you
 
-134
+133
 000814660  000816580
 Youre a mean
 green fighting machine
 
-135
+134
 000816660  000818870
 Together well scare
 the spit out of anybody that crosses us
 
-136
+135
 000820330  000823170
 
 
-137
+136
 000823250  000825920
 Oh wow
 That was really scary
 
-138
+137
 000826000  000829710
 If you dont mind me saying
 if that dont work your breath
 certainly will get the job done
 
-139
+138
 000829800  000832930
 cause you definitely
 need some Tic Tacs or something
 cause your breath stinks
 
-140
+139
 000833010  000836220
 You almost burned the hair
 outta my nose
 
-141
+140
 000836300  000839140
 just like the time
 
 
-142
+141
 000839220  000842940
 Then I ate some rotten berries
 I had strong gases eking out
 of my butt that day
 
-143
+142
 000843020  000845730
 Why are you following me
 
-144
+143
 000846860  000849400
 Ill tell you why
 
-150
+144
+000849480  000852400
+Cause Im all alone
+
+145
+000852490  000856240
+Theres no one here
+beside me
+
+146
+000856320  000859990
+My problems
+have all gone
+
+147
+000900080  000903410
+Theres no one
+to deride me
+
+148
+000903500  000905460
+But you gotta have friends
+
+149
 000905540  000908590
 Stop singing
 
-151
+150
 000908670  000910710
 Its no wonder
 you dont have any friends
 
-152
+151
 000910800  000914420
 Wow Only a true friend
 would be that truly honest
 
-153
+152
 000914510  000918600
 Listen little donkey
 Take a look at me What am I
 
-154
+153
 000919640  000921600
 Uh
 
-155
+154
 000923480  000926730
  Really tall
  No Im an ogre
 
-156
+155
 000926810  000930020
 You know
 Grab your torch and pitchforks
 
-157
+156
 000930110  000932110
 Doesnt that bother you
 
-158
+157
 000932190  000934320
 Nope
 
-159
+158
 000934400  000937280
  Really
  Really really
 
-160
+159
 000937360  000940490
  Oh
  Man I like you Whats your name
 
-161
+160
 000940580  000944250
 Uh Shrek
 
-162
+161
 000944330  000947580
 Shrek Well you know
 what I like about you Shrek
 
-163
+162
 000947670  000951710
 You got that kind of
 Idontcarewhatnobody
 thinksofme thing
 
-164
+163
 000951800  000955590
 I like that
 I respect that Shrek You all right
 
-165
+164
 000955670  000959680
 Whoo Look at that Whod want
 to live in a place like that
 
-166
+165
 000959760  001002970
 That would be my home
 
-167
+166
 001003060  001005930
 Oh And it is lovely
 Just beautiful
 
-168
+167
 001006020  001009810
 You are quite a decorator
 Its amazing what youve done
 with such a modest budget
 
-169
+168
 001009900  001014650
 I like that boulder
 That is a nice boulder
 
-170
+169
 001018410  001021120
 I guess you dont
 entertain much do you
 
-171
+170
 001021200  001022990
 I like my privacy
 
-172
+171
 001023080  001025660
 You know I do too
 Thats another thing we have in common
 
-173
+172
 001025750  001028000
 Like I hate it when
 you got somebody in your face
 
-174
+173
 001028080  001032000
 Youre trying to give them
 a hint and they wont leave
 Theres that awkward silence
 
-175
+174
 001035130  001037840
  Can I stay with you
  Uh what
 
-176
+175
 001037930  001040510
 Can I stay with you please
 
-177
+176
 001040590  001042890
  Of course
  Really
 
-178
+177
 001042970  001045350
  No
  Please I dont wanna go back there
 
-179
+178
 001045430  001049350
 You dont know what its like to be
 considered a freak Well maybe you do
 
-180
+179
 001049440  001052020
 But thats why we gotta stick together
 You gotta let me stay
 
-181
+180
 001052110  001055230
  Please Please
  Okay Okay
 
-182
+181
 001055320  001057900
  But one night only
  Ah Thank you
 
-183
+182
 001057990  001100320
  What are you No No
  This is gonna be fun
 
-184
+183
 001100410  001102320
 We can stay up late
 swapping manly stories
 
-185
+184
 001102410  001105200
 and in the morning
 Im making waffles
 
-186
+185
 001105290  001108540
  Oh
  Where do uh I sleep
 
-187
+186
 001108620  001110370
 Outside
 
-188
+187
 001110460  001113540
 Oh well
 I guess thats cool
 
-189
+188
 001113630  001115710
 I mean I dont know you
 and you dont know me
 
-190
+189
 001115800  001118170
 so I guess outside
 is best you know
 
-191
+190
 001118260  001121260
 
 Here I go
 
-192
+191
 001123430  001127520
 Good night
 
 
-193
+192
 001127600  001131600
 I mean I do like the outdoors
 Im a donkey I was born outside
 
-194
+193
 001131690  001134360
 Ill just be sitting by myself
 outside I guess you know
 
-195
+194
 001134440  001136730
 By myself outside
 
-197
+195
+001136820  001141610
+Im all alone
+Theres no one here beside me
+
+196
 001141700  001143030
 
 
-198
+197
 001200840  001203260
 
 
-199
+198
 001243800  001245800
 
 
-200
+199
 001245890  001248510
 
 I thought I told you to stay outside
 
-201
+200
 001248600  001252270
  I am outside
  
 
-202
+201
 001252350  001254100
 
 
-203
+202
 001257770  001301570
 Well gents its a far cry from
 the farm but what choice do we have
 
-204
+203
 001301650  001304150
 Its not home
 but itll do just fine
 
-205
+204
 001304240  001306160
 What a lovely bed
 
-206
+205
 001306240  001308580
  Got ya
   I found some cheese
 
-207
+206
 001308660  001311160
  Ow 
  Blah Awful stuff
 
-208
+207
 001312910  001315500
  Is that you Gorder
  How did you know
 
-209
+208
 001315580  001318500
 Enough
 What are you doing in my house
 
-210
+209
 001318590  001320500
 
 Hey
 
-211
+210
 001320590  001323220
  
  Oh no no no
 
-212
+211
 001323300  001326890
  Dead broad off the table
  Where are we supposed to
 put her The beds taken
 
-213
+212
 001326970  001330140
 Huh
 
 
-214
+213
 001330220  001332850
 
 What
 
-215
+214
 001332930  001337690
 I live in a swamp I put up signs
 Im a terrifying ogre
 
-216
+215
 001337770  001340400
 What do I have to do
 to get a little privacy
 
-217
+216
 001340480  001342900
  Aah
  Oh no
 
-218
+217
 001342990  001345700
 Oh no
 
-219
+218
 001345780  001349370
  No No
  
 
-220
+219
 001349450  001352370
  
  What
 
-221
+220
 001352450  001354370
  Quit it
  Dont push
 
-222
+221
 001354450  001358710
  
  
 
-223
+222
 001358790  001401710
 What are you doing
 in my swamp
 
-224
+223
 001401800  001404210
 
 Swamp Swamp Swamp
 
-225
+224
 001404300  001407510
  
  Oh dear
 
-226
+225
 001407590  001409220
 Whoa
 
-227
+226
 001409300  001412680
 All right get out of here
 All of you move it
 
-228
+227
 001412760  001415180
 Come on Lets go
 Hapaya Hapaya Hey
 
-229
+228
 001415270  001417230
  Quickly Come on
  No no
 
-230
+229
 001417310  001419520
 No no
 Not there Not there
 
-231
+230
 001419610  001423110
  Oh
  
 
-232
+231
 001423190  001426070
 Hey dont look at me
 I didnt invite them
 
-233
+232
 001426150  001428240
 Oh gosh no one invited us
 
-234
+233
 001428320  001430910
  What
  We were forced to come here
 
-235
+234
 001430990  001433120
  By who
  Lord Farquaad
 
-236
+235
 001433200  001437960
 He huffed und he puffed und he
 signed an eviction notice
 
-237
+236
 001438040  001440750
 
 All right
 
-238
+237
 001440830  001445090
 Who knows where
 this Farquaad guy is
 
-239
+238
 001445170  001447970
  
  Oh I do I know where he is
 
-240
+239
 001448050  001451760
 Does anyone else
 know where to find him
 
-241
+240
 001453220  001455470
  Any one at all
  Me Me
 
-242
+241
 001455560  001457480
  Anyone
  Oh Oh pick me
 
-243
+242
 001457560  001459980
 Oh I know
 I know Me me
 
-244
+243
 001500060  001503190
 
 Okay fine
 
-245
+244
 001503270  001507820
 Attention
 all fairy tale things
 
-246
+245
 001507900  001512620
 Do not get comfortable
 Your welcome is officially worn out
 
-247
+246
 001512700  001516410
 In fact Im gonna see
 this guy Farquaad right now
 
-248
+247
 001516500  001519620
 and get you all off my land
 and back where you came from
 
-249
+248
 001521000  001524130
 
 
-250
+249
 001524210  001527090
  
  
 
-251
+250
 001527170  001530130
 Oh You
 
-252
+251
 001530220  001532140
 Youre coming with me
 
-253
+252
 001532220  001534560
 All right thats
 what I like to hear man
 
-254
+253
 001534640  001538430
 Shrek and Donkey two stalwart friends
 off on a whirlwind bigcity adventure
 
-255
+254
 001538520  001540520
 I love it
 
+255
+001540600  001543770
+ On the road again
+Sing it with me Shrek
+ Hey Oh oh
 
+256
+001543860  001545820
+I cant wait to get
+on the road again
 
-258
+257
 001545900  001547820
 What did I say
 about singing
 
-259
+258
 001547900  001549820
  Can I whistle
  No
 
-260
+259
 001549900  001552700
  Can I hum it
  All right hum it
 
-262
+260
+001552780  001557660
+
+
+261
 001559040  001600000
 
 
-263
+262
 001618390  001622390
 
 
-264
+263
 001622480  001625520
 Thats enough
 Hes ready to talk
 
-265
+264
 001625610  001629230
 
 
-266
+265
 001629320  001633240
 
 
-267
+266
 001634910  001636830
 
 
-268
+267
 001638450  001640910
 Run run run
 as fast as you can
 
-269
+268
 001641000  001644540
 You cant catch me
 Im the gingerbread man
 
-270
+269
 001644630  001648210
  Youre a monster
  Im not the monster here You are
 
-271
+270
 001648300  001652550
 You and the rest of that fairy tale
 trash poisoning my perfect world
 
-272
+271
 001652630  001654550
 Now tell me
 Where are the others
 
-273
+272
 001654640  001657180
  Eat me
  
 
-274
+273
 001657260  001700180
 Ive tried to be fair
 to you creatures
 
-275
+274
 001700270  001703770
 Now my patience has reached its end
 Tell me or Ill
 
-276
+275
 001703850  001706650
 No no not the buttons
 Not my gumdrop buttons
 
-277
+276
 001706730  001708730
 All right then
 Whos hiding them
 
-278
+277
 001708820  001714150
 Okay Ill tell you
 Do you know the muffin man
 
-279
+278
 001714240  001716570
  The muffin man
  The muffin man
 
-280
+279
 001716660  001720080
 Yes I know the muffin man
 who lives on Drury Lane
 
-281
+280
 001720160  001723580
 Well shes married
 to the muffin man
 
-282
+281
 001723660  001725790
  The muffin man
  The muffin man
 
-283
+282
 001725870  001728880
  Shes married to the muffin man
  
 
-284
+283
 001728960  001730630
 My Lord We found it
 
-285
+284
 001730710  001733920
 Then what are you waiting for
 Bring it in
 
-286
+285
 001734010  001736300
 
 
-287
+286
 001745310  001747810
  
  Oh
 
-288
+287
 001747900  001752230
  Magic mirror
  Dont tell him anything
 
-289
+288
 001752320  001754650
 No
 
-290
+289
 001754740  001758490
  
  Evening
 
-291
+290
 001758570  001800450
 Mirror mirror on the wall
 
-292
+291
 001800530  001803910
 Is this not the most
 perfect kingdom of them all
 
-293
+292
 001804000  001806580
 Well technically
 youre not a king
 
-294
+293
 001806670  001810090
 Uh Thelonius
 
-295
+294
 001810170  001813800
  You were saying
  What I mean is youre not a king yet
 
-296
+295
 001813880  001817470
 But you can become one All
 you have to do is marry a princess
 
-297
+296
 001817550  001820550
  Go on
  
 
-298
+297
 001820640  001824270
 Sojust sit back
 and relax my Lord
 
-299
+298
 001824350  001828650
 because its time for you to
 meet todays eligible bachelorettes
 
-300
+299
 001828730  001832320
 And here they are
 
-301
+300
 001832400  001837360
 Bachelorette number one
 is a mentally abused shutin
 from a kingdom far faraway
 
-302
+301
 001837450  001839700
 She likes sushi
 and hot tubbing anytime
 
-303
+302
 001839780  001843240
 Her hobbies include cooking
 and cleaning for her two evil sisters
 
-304
+303
 001843330  001845700
 Please welcome Cinderella
 
-305
+304
 001845790  001849830
 Bachelorette number two
 is a capewearing girl
 from the land of fancy
 
-306
+305
 001849920  001852630
 Although she lives with
 seven other men shes not easy
 
-307
+306
 001852710  001856170
 Just kiss her dead frozen lips
 and find out what a live wire she is
 
-308
+307
 001856260  001900010
 Come on
 Give it up for Snow White
 
-309
+308
 001900090  001902720
 And last
 but certainly not least
 
-310
+309
 001902800  001904890
 bachelorette number three
 is a fiery redhead
 
-311
+310
 001904970  001907520
 from a dragonguarded castle
 surrounded by hot boiling lava
 
-312
+311
 001907600  001909650
 But dont let that cool you off
 
-313
+312
 001909730  001912900
 Shes a loaded pistol
 who likes pina coladas
 and getting caught in the rain
 
-314
+313
 001912980  001917030
 Yours for the rescuing
 Princess Fiona
 
-315
+314
 001917110  001919570
 So will it be
 bachelorette number one
 
-316
+315
 001919660  001923160
 bachelorette number two
 or bachelorette number three
 
-317
+316
 001923240  001925410
  Two Two
  Three Three
 
-318
+317
 001925490  001926830
  Two Two
  Three
 
-319
+318
 001926910  001929040
 Three One
  Three
 
-320
+319
 001929120  001931170
 Three
 Pick number three my Lord
 
-321
+320
 001931250  001935000
 Okay okay uh number three
 
-322
+321
 001935090  001939840
 Lord Farquaad
 youve chosen Princess Fiona
 
+322
+001939930  001943720
+If you love pina coladas
+
+323
+001943800  001947140
+ And getting caught in the rain
+ Princess Fiona
+
+324
+001947220  001949390
+ If youre not into yoga
  Shes perfect
 
-326
+325
 001949480  001952230
 All I have to do is
 just find someone who can go
 
-327
+326
 001952310  001954570
 But I probably should mention
 the little thing that happens at night
 
-328
+327
 001954650  001956570
  Ill do it
  Yes but after sunset
 
-329
+328
 001956650  002000740
 Silence I will make
 this Princess Fiona my queen
 
-330
+329
 002000820  002004990
 and DuLoc will finally
 have the perfect king
 
-331
+330
 002005080  002007290
 Captain assemble
 your finest men
 
-332
+331
 002007370  002011250
 Were going to have
 a tournament
 
-333
+332
 002012920  002015920
 But thats it Thats it
 right there Thats DuLoc
 
-334
+333
 002016000  002018050
 I told ya Id find it
 
-335
+334
 002018130  002022260
 So that must be
 Lord Farquaads castle
 
-336
+335
 002022340  002024430
 
 Uhhuh Thats the place
 
-337
+336
 002024510  002027930
 Do you think maybe
 hes compensating for something
 
-338
+337
 002028020  002030100
 
 
-339
+338
 002030180  002032100
 
 
-340
+339
 002032190  002034150
 Hey wait
 Wait up Shrek
 
-341
+340
 002034230  002037110
 Hurry darling
 Were late Hurry
 
-342
+341
 002038690  002042240
  Hey you
  
 
-343
+342
 002042320  002045160
 Wait a second
 Look Im not gonna eat ya
 
-344
+343
 002045240  002049160
  I just I just
  
 
-345
+344
 002049240  002051330
 
 
-346
+345
 002052870  002055580
 
 
-347
+346
 002103340  002105260
 
 
-348
+347
 002106720  002108760
 
 
-349
+348
 002108850  002111350
 
 
-350
+349
 002111430  002115310
-  
 
-351
+
+350
 002119690  002121280
 Its quiet
 
-352
+351
 002123700  002125990
 Too quiet
 
-353
+352
 002126070  002128490
 
 
-354
+353
 002128580  002132700
  Where is everybody
  Hey look at this
 
-355
+354
 002135420  002138790
 
 
-356
+355
 002138880  002142340
 
 
-357
+356
 002142420  002146010
 
 
+357
+002146090  002149510
+Welcome to DuLoc
+such a perfect town
 
-366
+358
+002149600  002153020
+Here we have some rules
+Let us lay them down
+
+359
+002153100  002156980
+Dont make waves stay in line
+and well get along fine
+
+360
+002157060  002200690
+DuLoc is a perfect place
+
+361
+002200770  002205320
+Please keep off of the grass
+Shine your shoes wipe your face
+
+362
+002205400  002208990
+DuLoc is DuLoc is
+
+363
+002209070  002212540
+DuLoc is a perfect
+
+364
+002212620  002216040
+ Place
+ 
+
+365
 002216120  002218710
 
 
-367
+366
 002219790  002224010
 Wow Lets do that again
 
-368
+367
 002224090  002226760
 No No
 No no no No
 
-370
+368
+002226840  002229090
+
+
+369
 002229180  002231560
  
   Brave knights
 
-372
+370
+002231640  002235770
+ You are the best and brightest
+in all the land
+ 
+
+371
 002235850  002238270
 Today one of you
 shall prove himself
 
-373
+372
 002238350  002240690
 All right Youre going the right way
 for a smacked bottom
 
-374
+373
 002240770  002242690
  Sorry about that
  
 
-375
+374
 002242770  002248280
 That champion shall have the honour
 no no the privilege
 
-376
+375
 002248360  002252410
 to go forth and rescue
 the lovely Princess Fiona
 
-377
+376
 002252490  002255830
 from the fiery keep
 oft he dragon
 
-378
+377
 002255910  002300130
 If for any reason
 the winner is unsuccessful
 
-379
+378
 002300210  002303380
 the first runnerup
 will take his place
 
-380
+379
 002303460  002306260
 and so on and so forth
 
-381
+380
 002306340  002311760
 Some of you may die but its
 a sacrifice I am willing to make
 
-382
+381
 002311850  002314640
 
 
-383
+382
 002316890  002319310
 Let the tournament begin
 
-384
+383
 002323020  002324940
  
  Oh
 
-385
+384
 002325030  002328280
  What is that
  
 
-386
+385
 002328360  002332950
  Its hideous
  Ah thats not very nice
 
-387
+386
 002333030  002335450
  Its just a donkey
  Huh
 
-388
+387
 002335540  002338500
 Indeed Knights new plan
 
-389
+388
 002338580  002343290
 The one who kills the ogre will be
 named champion Have at him
 
-390
+389
 002343380  002347300
  Get him
  Oh hey Now come on Hang on now
 
-391
+390
 002347380  002349680
 
 Go ahead Get him
 
-392
+391
 002349760  002353430
 Cant we just settle this
 over a pint
 
-393
+392
 002353510  002354760
 
 Kill the beast
 
-394
+393
 002354850  002359310
 No All right then
 
-395
+394
 002359390  002401480
 Come on
 
-405
+395
+002409280  002413700
+I dont give a damn
+about my reputation
+
+396
+002413780  002417790
+ Youre living in the past
+Its a new generation
+ Damn
+
+397
+002417870  002420660
+ 
+ A girl can do
+what she wants to do
+
+398
+002420750  002423000
+And thats what
+Im gonna do
+
+399
+002423080  002427000
+And I dont give a damn
+about my bad reputation
+
+400
+002427090  002430840
+Oh no no no no no
+Not me
+
+401
+002430920  002434300
+ Me me me
+ Hey Shrek tag me Tag me
+
+402
+002434390  002437140
+And I dont give a damn
+about my reputation
+
+403
+002437220  002439470
+Never said I wanted
+to improve my station
+
+404
 002439560  002442060
 Ah
 
 
+405
+002442140  002444190
+ And Im always feeling good
+when Im having fun
  Yeah
 
-408
+406
+002444270  002446360
+And I dont have
+to please no one
+
+407
 002446440  002448360
 The chair
 Give him the chair
 
-415
+408
+002448440  002451070
+And I dont give a damn
+about my bad reputation
+
+409
+002451150  002454320
+Oh no no no no no
+Not me
+
+410
+002454410  002455820
+Me me me
+
+411
+002455910  002458580
+Oh no no no no
+
+412
+002458660  002502330
+Not me not me
+
+413
+002502410  002504880
+ Not me
+ 
+
+414
 002504960  002507920
  
  
 
-416
+415
 002508000  002513220
 Oh yeah Ah Ah
 
-417
+416
 002513300  002516090
 Thank you
 Thank you very much
 
-418
+417
 002516180  002518560
 Im here till Thursday
 Try the veal Ha ha
 
-419
+418
 002518640  002523100
  
  
 
-420
+419
 002525020  002526980
 Shall I give
 the order sir
 
-421
+420
 002527060  002530650
 No I have a better idea
 
-422
+421
 002530730  002535910
 People of DuLoc
 I give you our champion
 
-423
+422
 002535990  002539870
  What
  Congratulations ogre
 
-424
+423
 002539950  002544290
 Youve won the honour of
 embarking on a great and noble quest
 
-425
+424
 002544370  002548750
 Quest Im already on a quest
 a quest to get my swamp back
 
-426
+425
 002548840  002552050
  Your swamp
  Yeah my swamp
 
-427
+426
 002552130  002554590
 Where you dumped
 those fairy tale creatures
 
-428
+427
 002554680  002557260
  
  Indeed
 
-429
+428
 002557340  002559430
 All right ogre
 Ill make you a deal
 
-430
+429
 002559510  002603310
 Go on this quest for me and
 Ill give you your swamp back
 
-431
+430
 002603390  002606100
 Exactly the way it was
 
-432
+431
 002606190  002608940
 Down to the last
 slimecovered toad stool
 
-433
+432
 002609020  002612280
  And the squatters
  As good as gone
 
-434
+433
 002615320  002619280
 What kind of quest
 
-435
+434
 002619620  002621950
  Let me get this straight
 Youre gonna go fight a dragon
 
-436
+435
 002622040  002624660
 and rescue a princess just so Farquaad
 will give you back a swamp
 
-437
+436
 002624750  002627880
 which you only dont have
 because he filled it full of
 freaks in the first place
 
-438
+437
 002627960  002632300
  Is that about right
  Maybe theres a good reason
 donkeys shouldnt talk
 
-439
+438
 002632380  002635920
 I dont get it Why dont you just
 pull some of that ogre stuff on him
 
-440
+439
 002636010  002637930
 Throttle him
 lay siege to his fortress
 
-441
+440
 002638010  002640850
 grind his bones to make your bread
 the whole ogre trip
 
-442
+441
 002640930  002642850
 Oh I know what
 
-443
+442
 002642930  002645140
 Maybe I could have
 decapitated an entire village
 
-444
+443
 002645230  002647350
 and put their heads
 on a pike
 
-445
+444
 002647440  002651060
 gotten a knife cut open their
 spleen and drink their fluids
 
-446
+445
 002651150  002653280
 Does that sound
 good to you
 
-447
+446
 002653360  002655990
 Uh no not really no
 
-448
+447
 002656070  002659870
 For your information theres a lot
 more to ogres than people think
 
-449
+448
 002659950  002702700
  Example
  Example
 
-450
+449
 002702780  002708920
  Okay um ogres are like onions
   They stink
 
-451
+450
 002709000  002711290
  Yes No
  They make you cry
  No
 
-452
+451
 002711380  002714800
 You leave them out in the sun
 they get all brown start
 sprouting little white hairs
 
-453
+452
 002714880  002716880
 No Layers
 
-454
+453
 002716970  002719300
 Onions have layers
 
-455
+454
 002719380  002722680
 Ogres have layers
 Onions have layers
 
-456
+455
 002722760  002725180
 You get it We both have layers
 
 
-457
+456
 002727100  002730690
 Oh you both
 have layers Oh
 
-458
+457
 002730770  002734150
 
 You know not everybody likes onions
 
-459
+458
 002734230  002736860
 Cake Everybody loves cakes
 Cakes have layers
 
-460
+459
 002736940  002740860
 I dont care
 what everyone likes
 
-461
+460
 002740950  002744660
 Ogres are not like cakes
 
-462
+461
 002746500  002749870
 You know what else
 everybody likes Parfaits
 
-463
+462
 002749960  002751880
 Have you ever met a person you
 say Lets get some parfait
 
-464
+463
 002751960  002753880
 they say No
 I dont like no parfait
 
-465
+464
 002753960  002756710
  Parfaits are delicious
  No
 
-466
+465
 002756800  002759550
 You dense irritating
 miniature beast of burden
 
-467
+466
 002759630  002802550
 Ogres are like onions
 End of story
 
-468
+467
 002802640  002804600
 Byebye See ya later
 
-469
+468
 002808430  002812860
 Parfaits may be the most delicious thing
 on the whole damn planet
 
-470
+469
 002812940  002815150
 You know I think
 I preferred your humming
 
-471
+470
 002815230  002817900
 Do you have a tissue or something
 Im making a mess
 
-472
+471
 002817990  002820900
 Just the word parfait
 make me start slobbering
 
-482
+472
+002825330  002831210
+Im on my way from misery
+to happiness today
+
+473
+002831290  002833790
+Uhhuh uhhuh
+Uhhuh uhhuh
+
+474
+002833880  002839340
+Im on my way from misery
+to happiness today
+
+475
+002839420  002841880
+Uhhuh uhhuh
+Uhhuh uhhuh
+
+476
+002841970  002845890
+And everything
+that you receive up yonder
+
+477
+002845970  002849890
+Is what you give to me
+the day I wander
+
+478
+002849980  002852940
+Im on my way
+
+479
+002854020  002856940
+Im on my way
+
+480
+002858030  002900110
+Im on my way
+
+481
 002900190  002902650
 Ooh Shrek
 Did you do that
 
-483
+482
 002902740  002906530
 You gotta warn somebody before you
 just crack one off My mouth was open
 
-484
+483
 002906620  002910330
 Believe me Donkey if
 it was me youd be dead
 
-485
+484
 002910410  002913170
 
 Its brimstone
 
-486
+485
 002913250  002916420
  We must be getting close
  Yeah right brimstone
 
-487
+486
 002916500  002920590
 Dont be talking about its
 the brimstone I know what I
 smell It wasnt no brimstone
 
-488
+487
 002920670  002922630
 It didnt come off
 no stone neither
 
-489
+488
 002925550  002927760
 
 
-490
+489
 002940650  002943990
 Sure its big enough
 but look at the location
 
-491
+490
 002944070  002947030
 
 
-492
+491
 002947120  002951830
 Uh Shrek Uh remember when
 you said ogres have layers
 
-493
+492
 002951910  002953830
 Oh aye
 
-494
+493
 002953910  002957500
 Well I have a bit
 of a confession to make
 
-495
+494
 002957580  003000960
 Donkeys dont have layers We wear
 our fear right out there on our sleeves
 
-496
+495
 003001050  003005130
  Wait a second
 Donkeys dont have sleeves
  You know what I mean
 
-497
+496
 003005220  003007890
 You cant tell me
 youre afraid of heights
 
-498
+497
 003007970  003012560
 Im just a little uncomfortable
 about being on a rickety bridge
 over a boiling lake of lava
 
-499
+498
 003012640  003016690
 Come on Donkey
 Im right here beside ya okay
 
-500
+499
 003016770  003019440
 For emotional support
 
-501
+500
 003019520  003024070
 well just tackle this thing
 together one little baby step at a time
 
-502
+501
 003024150  003026070
  Really
  Really really
 
-503
+502
 003026150  003029370
  Okay that makes me
 feel so much better
 Just keep moving
 
-504
+503
 003029450  003034040
  And dont look down
  Okay dont look down
 Dont look down
 
-505
+504
 003034120  003037500
 Dont look down
 Keep on moving Dont look down
 
-506
+505
 003037580  003041380
 
 Shrek Im looking down
 
-507
+506
 003041460  003044380
 Oh God I cant do this
 Just let me off please
 
-508
+507
 003044460  003048010
  But youre already halfway
  But I know that half is safe
 
-509
+508
 003048090  003050890
 Okay fine I dont
 have time for this You go back
 
-510
+509
 003050970  003053390
  Shrek no Wait
 Just Donkey
 
-511
+510
 003053470  003056560
  Lets have a dance then shall we
  Dont do that
 
-512
+511
 003056640  003100520
 Oh Im sorry Do what
 
-513
+512
 003100610  003103690
  Oh this
  Yes that
 
-514
+513
 003103780  003107200
 Yes Yes do it Okay
 
-515
+514
 003107280  003109570
 
 No Shrek
 
-516
+515
 003109660  003112780
  No Stop it
  You said do it Im doing it
 
-517
+516
 003112870  003117120
 Im gonna die Im gonna die
 Shrek Im gonna die
 
-518
+517
 003117210  003119710
 Oh
 
-519
+518
 003119790  003123800
 Thatll do Donkey
 Thatll do
 
-520
+519
 003127170  003129430
 Cool
 
-521
+520
 003129510  003132260
  So where is this
 firebreathing painintheneck anyway
 
-522
+521
 003132350  003136100
 Inside waiting for us
 to rescue her
 
-523
+522
 003136180  003139100
 
 I was talking about the dragon Shrek
 
-524
+523
 003140560  003142440
 
 
-525
+524
 003144110  003146030
 
 
-526
+525
 003154580  003156500
 
 You afraid
 
-527
+526
 003156580  003159870
 No but Shh
 
-528
+527
 003159960  003203500
 Oh good Me neither
 
 
-529
+528
 003203590  003206960
 Cause theres nothing
 wrong with being afraid
 
-530
+529
 003207050  003210300
 Fears a sensible response
 to an unfamiliar situation
 
-531
+530
 003210380  003212430
 Unfamiliar dangerous
 situation I might add
 
-532
+531
 003212510  003215140
 With a dragon that breathes fire
 and eats knights and breathes fire
 
-533
+532
 003215220  003218680
 it sure doesnt mean youre a coward
 if youre a little scared
 
-534
+533
 003218770  003222770
 I sure as heck am not a coward
 I know that 
 
-535
+534
 003222860  003226190
 Donkey two things okay
 
-536
+535
 003226280  003228820
 Shut up
 
-537
+536
 003228900  003231660
 Now go over there and see
 if you can find any stairs
 
-538
+537
 003231740  003234370
 Stairs I thought
 we was looking for the princess
 
-539
+538
 003234450  003239330
 The princess will be up the stairs in
 the highest room in the tallest tower
 
-540
+539
 003239410  003243000
  What makes you think shell be there
  I read it in a book once
 
-541
+540
 003243080  003247000
 Cool You handle the dragon
 Ill handle the stairs
 
-542
+541
 003247090  003250130
 Ill find those stairs
 Ill whip their butt too
 
-543
+542
 003250220  003252180
 Those stairs wont know
 which way theyre going
 
-544
+543
 003252260  003254680
 
 
-545
+544
 003256680  003258640
 Im gonna take drastic steps
 
-546
+545
 003258720  003301520
 Kick it to the kerb Dont mess
 with me Im the stair master
 
-547
+546
 003301600  003306190
 Ive mastered the stairs
 I wish I had a step right here
 Id step all over it
 
-548
+547
 003309150  003312700
 Well at least we know
 where the princess is but wheres the
 
-549
+548
 003312780  003317030
 Dragon
 
 
-550
+549
 003318120  003320040
 
 
-551
+550
 003325420  003327090
 
 
-552
+551
 003330630  003332880
 Donkey look out
 
 
-553
+552
 003334090  003338060
 
 
-554
+553
 003340520  003342230
 
 
-555
+554
 003344520  003346520
  Got ya
  
 
-556
+555
 003346610  003349690
 
 
-557
+556
 003349780  003355030
 
 Whoa Whoa Whoa
 
-558
+557
 003355110  003358080
 
 
-559
+558
 003406290  003408920
 
 
-560
+559
 003409000  003413630
 Oh Aah Aah
 
-561
+560
 003413720  003417220
 
 
-562
+561
 003418430  003422220
 
 
-563
+562
 003422310  003425730
 No Oh no No
 
 
-564
+563
 003425810  003429440
  Oh what large teeth you have
  
 
-565
+564
 003429520  003433360
 I mean white sparkling teeth
 I know you probably hear this
 all the time from your food
 
-566
+565
 003433440  003437570
 but you must bleach cause that
 is one dazzling smile you got there
 
-567
+566
 003437660  003440160
 Do I detect a hint
 of minty freshness
 
-568
+567
 003440240  003445000
 And you know what else
 Youre Youre a girl dragon
 
-569
+568
 003445080  003449590
 Oh sure I mean
 of course youre a girl dragon
 
-570
+569
 003449670  003453460
 Youre just reeking
 of feminine beauty
 
-571
+570
 003453550  003455880
 Whats the matter with you
 You got something in your eye
 
-572
+571
 003455970  003458800
 Ooh Oh Oh
 
-573
+572
 003458890  003501310
 Man Id really love to stay
 but you know Im uh 
 
-574
+573
 003501390  003505350
 Im an asthmatic and
 I dont know if itd work out if
 youre gonna blow smoke rings
 
-575
+574
 003505430  003507350
 Shrek
 
 
-576
+575
 003507440  003511150
 
 No Shrek Shrek
 
-577
+576
 003511230  003513150
 Shrek
 
-578
+577
 003513780  003517030
 
 
-579
+578
 003517110  003520320
-  
+
+
+579
+003524790  003529000
+
 
 580
-003524790  003529000
-  
+003541800  003544350
+
 
 581
-003541800  003544350
-  
-
-582
 003544430  003545850
 Oh Oh
 
-583
+582
 003545930  003547850
  Wake up
  What
 
-584
+583
 003547940  003549560
 Are you Princess Fiona
 
-585
+584
 003549650  003554980
 I am awaiting a knight
 so bold as to rescue me
 
-586
+585
 003555070  003557070
 Oh thats nice
 Now lets go
 
-587
+586
 003557150  003559150
 But wait Sir Knight
 
-588
+587
 003559240  003601530
 This beith our first meeting
 
-589
+588
 003601620  003605330
 Should it not be
 a wonderful romantic moment
 
-590
+589
 003605410  003609750
  Yeah sorry lady Theres no time
  Hey wait What are you doing
 
-591
+590
 003609830  003611920
 You should sweep me
 off my feet
 
-592
+591
 003612000  003615380
 out yonder window and down a rope
 on to your valiant steed
 
-593
+592
 003615460  003618260
 Youve had a lot of time
 to plan this havent you
 
-594
+593
 003618340  003622590
 Mmhmm
 
 
-595
+594
 003622680  003625560
 But we have to
 savour this moment
 
-596
+595
 003625640  003628390
 You could recite
 an epic poem for me
 
-597
+596
 003628480  003630940
 A ballad A sonnet
 
-598
+597
 003631020  003634270
  A Limerick Or something
  I dont think so
 
-599
+598
 003634360  003638780
 Can I at least know
 the name of my champion
 
-600
+599
 003638860  003640780
 Um Shrek
 
-601
+600
 003640860  003644580
 Sir Shrek
 
 
-602
+601
 003644660  003649410
 I pray that you take this favour
 as a token of my gratitude
 
-603
+602
 003650540  003652540
 Thanks
 
-604
+603
 003654290  003656460
 
 
-605
+604
 003656550  003658380
 You didnt slay the dragon
 
-606
+605
 003658460  003700920
  Its on my todo list Now come on
  
 
-607
+606
 003701010  003703590
 But this isnt right
 
-608
+607
 003703680  003705930
 You were meant to charge in
 sword drawn banner flying
 
-609
+608
 003706010  003708100
 Thats what all
 the other knights did
 
-610
+609
 003708180  003710480
 Yeah right before
 they burst into flame
 
-611
+610
 003710560  003714100
 Thats not the point Oh
 
-612
+611
 003714190  003716650
 Wait Where are you going
 The exits over there
 
-613
+612
 003716730  003718780
 Well I have to save my ass
 
-614
+613
 003718860  003722070
 What kind of knight are you
 
-615
+614
 003722150  003724570
 One of a kind
 
-616
+615
 003724660  003727030
 
 Slowdown Slowdown baby please
 
-617
+616
 003727120  003731330
 I believe its healthy to get to
 know someone over a long period of time
 
-618
+617
 003731410  003734000
 Just call me oldfashioned
 
 
-619
+618
 003734080  003737590
 I dont want to rush into
 a physical relationship
 
-620
+619
 003737670  003741130
 Im not emotionally ready
 for a commitment of uh this
 
-621
+620
 003741220  003743510
 Magnitude really is
 the word Im looking for
 
-622
+621
 003743590  003747100
 Magnitude Hey that is
 unwanted physical contact
 
-623
+622
 003747180  003749640
 Hey what are you doing
 
-624
+623
 003749720  003752980
 Okay okay Lets just backup a little
 and take this one step a ta time
 
-625
+624
 003753060  003757190
 We really should get to know each other
 first as friends or pen pals
 
-626
+625
 003757270  003801490
 Im on theroada lot
 but I just love receiving cards
 
-627
+626
 003801570  003803990
 Id really love
 to stay but
 
-628
+627
 003804070  003806660
 Dont do that Thats my tail
 Thats my personal tail
 
-629
+628
 003806740  003810160
 Youre gonna tear it off
 I dont give permission What
 are you gonna do with that
 
-630
+629
 003810240  003814040
 Hey now No way
 No No
 
-631
+630
 003814120  003816880
 No no No
 No no no No Oh
 
-632
+631
 003821760  003823720
 
 
-633
+632
 003826590  003828510
 
 
-634
+633
 003842230  003843650
  
  
 
-635
+634
 003843740  003845700
  Hi Princess
  It talks
 
-636
+635
 003845780  003849530
 Yeah its getting him
 to shut up thats the trick
 
-637
+636
 003849620  003850870
 
 
-638
+637
 003852410  003854710
 
 
-639
+638
 003854790  003856420
 Oh
 
-640
+639
 003856500  003857880
  
  
 
-641
+640
 003857960  003901380
 
 
-642
+641
 003901460  003904590
 
 
-643
+642
 003906590  003908510
 
 
-644
+643
 003909970  003912890
 
 
-645
+644
 003914470  003917020
 
 
-646
+645
 003925110  003927030
 Okay you two
 head for the exit
 
-647
+646
 003928160  003930700
 Ill take care of the dragon
 
-648
+647
 003937290  003942710
 
 Run
 
-649
+648
 003952350  003956020
 
 
-650
+649
 003956100  003958270
 
 
-651
+650
 003958350  004001560
 
 
-652
+651
 004003520  004006440
  
  
 
-653
+652
 004010360  004014120
 
 
-654
+653
 004014200  004016120
 
 
-655
+654
 004016200  004018790
 
 
-656
+655
 004020500  004023840
 
 
-657
+656
 004024290  004028970
  
  You did it
 
-658
+657
 004029050  004031930
 You rescued me
 Youre amazing Youre
 
-659
+658
 004032010  004035760
 Youre wonderful Youre
 
-660
+659
 004035850  004038140
 a little unorthodox Ill admit
 
-661
+660
 004038230  004043150
 But thy deed is great
 and thine heart is pure
 
-662
+661
 004043230  004047030
  I am eternally in your debt
  
 
-663
+662
 004047110  004051450
 And where would a brave knight be
 without his noble steed
 
-664
+663
 004051530  004056200
 I hope you heard that She called me
 a noble steed She think Im a steed
 
-665
+664
 004056290  004059450
 
 The battle is won
 
-666
+665
 004059540  004102040
 You may remove your helmet
 good Sir Knight
 
-667
+666
 004102120  004104710
  Uh no
  Why not
 
-668
+667
 004104790  004107000
 I have helmet hair
 
-669
+668
 004107090  004110300
 Please I wouldst look
 upon the face of my rescuer
 
-670
+669
 004110380  004112970
 No no you wouldnt st
 
-671
+670
 004113050  004115510
 But how will you kiss me
 
-672
+671
 004115600  004119350
 What That wasnt
 in the job description
 
-673
+672
 004119430  004121810
 Maybe its a perk
 
-674
+673
 004121890  004126320
 No its destiny
 Oh you must know how it goes
 
-675
+674
 004126400  004130190
 A princess locked in a tower
 and beset by a dragon
 
-676
+675
 004130280  004133200
 is rescued by a brave knight
 
-677
+676
 004133280  004136580
 and then they share
 true loves first kiss
 
-678
+677
 004136660  004138740
 Hmm With Shrek
 You think Wait
 
-679
+678
 004138830  004142000
 Wait You think that
 Shrek is your true love
 
-680
+679
 004142080  004144080
 Well yes
 
-681
+680
 004145790  004148050
  
  
 
-682
+681
 004148130  004150590
 You think Shrek
 is your true love
 
-683
+682
 004150670  004152590
 What is so funny
 
-684
+683
 004152670  004155760
 Lets just say Im
 not your type okay
 
-685
+684
 004155840  004159350
 Of course you are
 Youre my rescuer
 
-686
+685
 004159430  004201890
 Now Now remove your helmet
 
-687
+686
 004201980  004204190
 Look I really dont think
 this is a good idea
 
-688
+687
 004204270  004206270
 Just take off the helmet
  Im not going to
 
-689
+688
 004206360  004207520
  Take it off
  No
 
-690
+689
 004207610  004209690
  Now
  Okay
 
-691
+690
 004209780  004214280
 Easy As you command
 Your Highness
 
-692
+691
 004224330  004227750
 You Youre a an ogre
 
-693
+692
 004227840  004231760
 Oh you were expecting
 Prince Charming
 
-694
+693
 004231840  004234340
 Well yes actually
 
-695
+694
 004236260  004239510
 Oh no This is all wrong
 
-696
+695
 004239600  004241890
 Youre not supposed
 to be an ogre
 
-697
+696
 004241970  004247230
  Princess I was sent
 to rescue you by Lord Farquaad okay
 
-698
+697
 004247310  004249230
 Hes the one
 who wants to marry you
 
-699
+698
 004249310  004251230
 Then why didnt
 he come rescue me
 
-700
+699
 004251320  004255650
 Good question You should
 ask him that when we get there
 
-701
+700
 004255740  004258780
 But I have to be rescued
 by my true love
 
-702
+701
 004258870  004301620
 not by some ogre
 and his his pet
 
-703
+702
 004301700  004303750
 So much for noble steed
 
-704
+703
 004303830  004306460
 Youre not making
 my job any easier
 
-705
+704
 004306540  004309920
 Im sorry but your job
 is not my problem
 
-706
+705
 004310000  004315260
 You can tell Lord Farquaad
 that if he wants to rescue me properly
 
-707
+706
 004315340  004317680
 Ill be waiting for him
 right here
 
-708
+707
 004317760  004322810
 Hey Im no ones messenger boy
 all right Im a delivery boy
 
-709
+708
 004322890  004325140
 You wouldnt dare
 
-710
+709
 004325230  004327230
  Put me down
  Ya coming Donkey
 
-711
+710
 004327310  004329270
 Im right behind ya
 
-712
+711
 004329350  004332940
 Put me down or you will
 suffer the consequences
 
-713
+712
 004333030  004337530
 This is not dignified
 Put me down 
 
-714
+713
 004337610  004340490
 Okay so heres
 another question
 
-715
+714
 004340570  004343620
 Say theres a woman
 that digs you right but you
 dont really like her that way
 
-716
+715
 004343700  004346080
 How do you let her down real easy
 so her feelings arent hurt
 
-717
+716
 004346160  004348670
 but you dont get burned
 to a crisp and eaten
 
-718
+717
 004348750  004351500
 You just tell her
 shes not your true love
 
-719
+718
 004351590  004354300
 Everyone knowest what happens
 when you find your
 
-720
+719
 004354380  004356970
 Hey
 
 
-721
+720
 004357050  004359340
 The sooner we get
 to DuLoc the better
 
-722
+721
 004359430  004402350
 Youre gonna love it there
 Princess Its beautiful
 
-723
+722
 004402430  004406180
 And what of my groomtobe
 Lord Farquaad Whats he like
 
-724
+723
 004406270  004408390
 Let me put it this way
 Princess
 
-725
+724
 004408480  004412480
 Men of Farquaads stature
 are in short supply
 
-726
+725
 004412560  004414480
 
 
-727
+726
 004414570  004418650
 I dont know There are those who
 think little of him
 
-728
+727
 004418740  004420700
 
 
-729
+728
 004420780  004423660
 Stop it Stop it
 both of you
 
-730
+729
 004423740  004428710
 Youre just jealous you can
 never measure up to a great
 ruler like Lord Farquaad
 
-731
+730
 004428790  004431710
 Yeah well maybe
 youre right Princess
 
-732
+731
 004431790  004435090
 But Ill let you do the measuring
 when you see him tomorrow
 
-733
+732
 004435170  004439380
 Tomorrow
 Itll take that Ion
 
-734
+733
 004439470  004444180
  Shouldnt we stop to make camp
  No thatll take longer
 
-735
+734
 004444260  004448680
  We can keep going
  But theres robbers in the woods
 
-736
+735
 004448770  004452100
 Whoa Time out Shrek
 Camping is starting to sound good
 
-737
+736
 004452190  004456280
 Hey come on
 Im scarier than anything were
 going to see in this forest
 
-738
+737
 004456360  004458740
 I need to find
 somewhere to camp now
 
-739
+738
 004458820  004501030
 
 
-740
+739
 004503070  004505530
 
 
-741
+740
 004505620  004509710
  Hey Over here
  Shrek we can do better than that
 
-742
+741
 004509790  004512370
 I dont think
 this is fit for a princess
 
-743
+742
 004512460  004515250
 No no its perfect
 It just needs a few homey touches
 
-744
+743
 004515340  004520260
  Homey touches Like what
  
 
-745
+744
 004520340  004524600
 A door Well gentlemen
 I bid thee good night
 
-746
+745
 004524680  004527060
 You want me to read you
 a bedtime story I will
 
-747
+746
 004527140  004529470
 I said good night
 
-748
+747
 004531940  004533900
 Shrek what are you doing
 
-749
+748
 004533980  004537020
 
 I just You know Oh come on
 
-750
+749
 004537110  004539740
 I was just kidding
 
-751
+750
 004543030  004544950
 
 
-752
+751
 004545030  004548620
 And uh that one
 thats Throwback
 
-753
+752
 004548700  004552120
 the only ogre to ever spit
 over three wheat fields
 
-754
+753
 004552210  004555290
 Right Yeah
 
-755
+754
 004555380  004558300
 Hey can you tell my future
 from these stars
 
-756
+755
 004558380  004601970
 The stars dont tell the future Donkey
 They tell stories
 
-757
+756
 004602050  004605640
 Look theres BITNET
 the Fitment
 
-758
+757
 004605720  004609350
  You can guess what hes famous for
  I know youre making this up
 
-759
+758
 004609430  004612140
 No look
 There he is
 
-760
+759
 004612230  004615310
 and theres the group of hunters
 running away from his stench
 
-761
+760
 004615400  004617980
 That is nothing but
 a bunch of little dots
 
-762
+761
 004618070  004621990
 Sometimes things are
 more than they appear
 
-763
+762
 004622070  004624240
 Hmm
 
-764
+763
 004624320  004626370
 Forget it
 
-765
+764
 004626450  004629120
 
 
-766
+765
 004629200  004632960
 Hey Shrek what we gonna do
 when we get our swamp anyway
 
-767
+766
 004633040  004634830
 Our swamp
 
-768
+767
 004634920  004637000
 You know when were through
 rescuing the princess
 
-769
+768
 004637080  004641840
 We Donkey theres no we
 Theres no our
 
-770
+769
 004641920  004644170
 Theres just me and my swamp
 
-771
+770
 004644260  004648510
 The first thing Im gonna do is build
 a tenfoot wall around my land
 
-772
+771
 004648600  004651100
 You cut me deep Shrek
 
-773
+772
 004651180  004654520
 You cut me real deep just now
 
-774
+773
 004654600  004656520
 You know what I think
 
-775
+774
 004656600  004659730
 I think this whole wall thing
 is just a way to keep somebody out
 
-776
+775
 004659820  004703990
  No do ya think
  Are you hiding something
 
-777
+776
 004704070  004706030
 Never mind Donkey
 
-778
+777
 004706110  004709530
 Oh this is another one of
 those onion things isnt it
 
-779
+778
 004709620  004713200
 No this is one of those dropit
 and leaveitalone things
 
-780
+779
 004713290  004717040
  Why dont you want to talk about it
  Why do you want to
 
-781
+780
 004717120  004718920
  Why are you blocking
  Im not blocking
 
-782
+781
 004719000  004721250
  Oh yes you are
  Donkey Im warning you
 
-783
+782
 004721340  004724840
  Who you trying to keep out
  Everyone Okay
 
-784
+783
 004726090  004728550
 Oh now were getting somewhere
 
-785
+784
 004728640  004731930
 Oh For the love of Pete
 
-786
+785
 004732010  004734430
 Whats your problem
 What you got against the whole world
 
-787
+786
 004734520  004736730
 Im not the one
 with the problem okay
 
-788
+787
 004736810  004739770
 Its the world that seems
 to have a problem with me
 
-789
+788
 004739860  004743730
 People take one look at me
 and go Aah Help Run
 
-790
+789
 004743820  004747570
 A big stupid ugly ogre
 
-791
+790
 004747650  004751870
  They judge me before
 they even know me
 
-792
+791
 004751950  004753870
 Thats why
 Im better off alone
 
-793
+792
 004801790  004804000
 You know what
 
-794
+793
 004804090  004809760
 When we met I didnt think you was
 just a big stupid ugly ogre
 
-795
+794
 004809840  004812760
 Yeah I know
 
-796
+795
 004812850  004816270
 So uh are there
 any donkeys up there
 
-797
+796
 004816350  004819730
 Well theres um Gabby
 
-798
+797
 004819810  004822110
 the Small and Annoying
 
-799
+798
 004822190  004827110
 Okay I see it now The big shiny
 one right there That one there
 
-800
+799
 004827190  004830360
  Thats the moon
  Oh okay
 
-801
+800
 004840540  004844960
-  
+
+
+801
+004846550  004850430
+
 
 802
-004846550  004850430
-  
-
-803
 004851720  004854140
 
 Again Show me again
 
-804
+803
 004854220  004858520
 
 
-805
+804
 004858600  004902690
 Mirror mirror show her to me
 Show me the princess
 
-806
+805
 004902770  004906820
  Hmph
-  
+ 
 
-807
+806
 004906900  004911700
 Ah Perfect
 
 
-808
+807
 004918700  004920620
 
 
-809
+808
 004928590  004932050
-  
+
+
+809
+004932130  004935350
+
 
 810
-004932130  004935350
-  
+004935430  004938220
+
 
 811
-004935430  004938220
-  
+004938310  004941560
+
 
 812
-004938310  004941560
-  
+004941640  004944690
+ 
+ 
 
 813
-004941640  004944690
-  
-  
+004944770  004947820
+ 
+ 
 
 814
-004944770  004947820
-  
-  
+004947900  004950990
+ 
+ 
 
 815
-004947900  004950990
-  
-  
+004951070  004954490
+ 
+ 
 
 816
-004951070  004954490
-  
-  
+004954570  004956830
+
 
 817
-004954570  004956830
-  
-
-818
 004959160  005000700
 
 
-819
+818
 005007630  005011720
 
 
-820
+819
 005015010  005017890
 Mmm yeah you know
 I like it like that
 
-821
+820
 005017970  005022230
  Come on baby I said I like it
  Donkey wake up
 
-822
+821
 005022310  005024850
  Huh What
  Wake up
 
-823
+822
 005024940  005026900
  What
  Good morning
 
-824
+823
 005026980  005030230
 How do you like your eggs
 
-825
+824
 005030320  005034280
  Good morning Princess
  Whats all this about
 
-826
+825
 005034360  005038330
 We kind of got off
 to a bad start yesterday
 
-827
+826
 005038410  005040410
 I wanted to make it up to you
 
-828
+827
 005040490  005045040
 After all you did rescue me
 
-829
+828
 005045120  005048130
  Uh thanks
  
 
-830
+829
 005048210  005052010
 Well eat up
 Weve got a big day ahead of us
 
-831
+830
 005056470  005058430
  
  Shrek
 
-832
+831
 005058510  005100390
 What Its a compliment
 
-833
+832
 005100470  005103430
 Better out than in
 I always say 
 
-834
+833
 005103520  005107270
  Well its no way to behave
 in front of a princess
  
 
-835
+834
 005107350  005109980
  Thanks
  Shes as nasty as you are
 
-836
+835
 005110070  005114900
  You know
 youre not exactly what I expected
 
-837
+836
 005114990  005120080
 Maybe you shouldnt judge people
 before you get to know them
 
-838
+837
 005120160  005122790
-  
 
-839
+
+838
 005122870  005125160
 
 La Liberte Hey
 
-840
+839
 005125250  005127170
 Princess
 
-841
+840
 005127250  005129920
  
  What are you doing
 
-842
+841
 005130000  005132920
 Be still Mon Cherie
 for I am your saviour
 
-843
+842
 005133010  005137470
 And I am rescuing you from this green
 
 
-844
+843
 005137550  005140100
  beast
  Hey
 
-845
+844
 005140180  005142510
 Thats my princess
 Go find your own
 
-846
+845
 005142600  005147640
 Please monster
 Cant you see Im a little busy here
 
-847
+846
 005147730  005151320
 Look pal I dont know
 who you think you are
 
-848
+847
 005151400  005153980
 Oh Of course
 Oh how rude
 
-849
+848
 005154070  005156150
 Please let me
 introduce myself
 
-850
+849
 005156240  005159110
 Oh Merry Men
 
 
-865
+850
+005159200  005203160
+
+
+851
+005203240  005205200
+Ta dah dah dah whoo
+
+852
+005205290  005207370
+I steal from the rich
+and give to the needy
+
+853
+005207460  005209580
+ He takes a wee percentage
+ But Im not greedy
+
+854
+005209670  005211670
+I rescue pretty damsels
+Man Im good
+
+855
+005211750  005214710
+ What a guy Monsieur Hood
+ Break it down
+
+856
+005218430  005220680
+I like an honest fight
+and a saucy little maid
+
+857
+005220760  005223010
+ What hes basically saying
+is he likes to get
+ Paid
+
+858
+005223100  005225680
+ So
+ When an ogre in the bush
+grabs a lady by the tush
+
+859
+005225770  005228060
+ Thats bad
+ Thats bad
+
+860
+005228140  005230400
+When a beautys with a beast
+it makes me awfully mad
+
+861
+005230480  005232400
+Hes mad
+Hes really really mad
+
+862
+005232480  005234360
+Ill take my blade and
+ram it through your heart
+
+863
+005234440  005239030
+Keep your eyes on me boys
+cause Im about to start
+
+864
 005239110  005241700
 
 
-866
+865
 005241780  005244540
  
  
 
-867
+866
 005244620  005247250
 
 Man that was annoying
 
-868
+867
 005247330  005249080
 Oh you little
 
-869
+868
 005259130  005301050
 
 
-870
+869
 005304430  005307720
-  
 
-871
+
+870
 005310690  005313520
 
 
-872
+871
 005313610  005316230
 
 
-873
+872
 005316320  005319400
 
 Um shall we
 
-874
+873
 005320740  005323620
  Ho Id the phone
  
 
-875
+874
 005324200  005327160
 Oh Whoa whoa whoa
 Hold on now
 
-876
+875
 005327240  005329250
  Where did that come from
  What
 
-877
+876
 005329330  005332210
 That Back there
 That was amazing
 
-878
+877
 005332290  005334210
 Where did you learn that
 
-879
+878
 005334290  005337420
 Well 
 When one lives alone
 
-880
+879
 005337500  005340260
 uh one has to learn these things
 in case theres a
 
-881
+880
 005340340  005342970
  Theres an arrow in your butt
  What
 
-882
+881
 005343050  005346850
  Oh would you look at that
  Oh no This is all my fault
 
-883
+882
 005346930  005348850
  Im so sorry
  Why Whats wrong
 
-884
+883
 005348930  005352270
  Shreks hurt
  Shreks hurt Shreks hurt
 Oh no Shreks gonna die
 
-885
+884
 005352350  005356150
  Donkey Im okay
  You cant do this to me
 Im too young for you to die
 
-886
+885
 005356230  005358360
 Keep your legs elevated
 Turn your head and cough
 
-887
+886
 005358440  005401450
  Does anyone know the Heimlich
  Donkey Calm down
 
-888
+887
 005401530  005406160
 If you want to help Shrek
 run into the woods and find me
 a blue flower with red thorns
 
-889
+888
 005406240  005409830
 Blue flower red thorns Okay
 Im on it Blue flower red thorns
 
-890
+889
 005409910  005413370
 Dont die Shrek If you see
 a long tunnel stay away from the light
 
-891
+890
 005413460  005416630
   Donkey
  Oh yeah Right
 Blue flower red thorns
 
-892
+891
 005416710  005419000
  Blue flower red thorns
  What are the flowers for
 
-893
+892
 005419090  005421300
  For getting rid of Donkey
  Ah
 
-894
+893
 005421380  005423760
 Now you hold still
 and Ill yank this thing out
 
-895
+894
 005423840  005426050
 Ow Hey
 Easy with the yanking
 
-896
+895
 005426140  005428760
  Im sorry but it has to come out
  No its tender
 
-897
+896
 005428850  005430600
 Now hold on
 
-898
+897
 005430680  005432770
  What youre doing
 is the opposite of help
  Dont move
 
-899
+898
 005432850  005435520
  Look time out
  Would you
 
-900
+899
 005435600  005440070
 
 Okay What do you propose we do
 
-901
+900
 005440150  005442860
 Blue flower red thorns
 Blue flower red thorns
 Blue flower red thorns
 
-902
+901
 005442950  005445320
 This would be so much easier
 if I wasnt colourblind
 
-903
+902
 005445410  005447490
  Blue flower red thorns
   Ow
 
-904
+903
 005447570  005449990
 Ho Id on Shrek
 Im coming
 
-905
+904
 005451500  005453620
 Ow Not good
 
-906
+905
 005453710  005456250
 Okay Okay I can nearly see the head
  
 
-907
+906
 005456330  005458960
  Its just about
  Ow Ohh
 
-908
+907
 005500800  005503420
 Ahem
 
-909
+908
 005503510  005506890
 Nothing happened
 We were just uh
 
-910
+909
 005506970  005509680
 Look if you wanted to be alone
 all you had to do was ask
 
-911
+910
 005509760  005513020
 Oh come on
 Thats the last thing on my mind
 
-912
+911
 005513100  005516770
 The princess here
 was just Ugh
 
-913
+912
 005519940  005522650
  Ow
  Hey whats that
 
-914
+913
 005522730  005525570
 
 Thats Is that blood
 
-915
+914
 005525650  005527570
 
 
-916
+915
 005527990  005529580
 
 
-917
+916
 005533950  005535870
 
 
-930
+917
+005541880  005545550
+My beloved monster and me
+
+918
+005546800  005551310
+We go everywhere together
+
+919
+005551390  005556100
+Wearing a raincoat
+that has four sleeves
+
+920
+005556190  005600810
+ Gets us through all kinds
+of weather
+ Aah
+
+921
+005600900  005606150
+She will always be
+the only thing
+
+922
+005606240  005610740
+That comes between me
+and the awful sting
+
+923
+005610820  005615910
+That comes from living in a world
+thats so damn mean
+
+924
+005621960  005625090
+
+
+925
+005625170  005629300
+Oh ohohohoh
+
+926
+005643770  005645730
+Hey
+
+927
+005645820  005649990
+ Lala lala lalalala
+ 
+
+928
+005650070  005654120
+Lala lala lala
+
+929
 005656120  005658040
 There it is Princess
 
-931
+930
 005658120  005700460
 Your future awaits you
 
-932
+931
 005700540  005702790
  Thats DuLoc
  Yeah I know
 
-933
+932
 005702880  005705550
 You know Shrek thinks Lord Farquaads
 compensating for something
 
-934
+933
 005705630  005708130
 which I think means
 he has a really Ow
 
-935
+934
 005708220  005710130
 Um I uh
 
-936
+935
 005710220  005712640
  I guess we better move on
  Sure
 
-937
+936
 005712720  005714810
 But Shrek
 
-938
+937
 005714890  005717680
  Im Im worried about Donkey
  
 
-939
+938
 005717770  005720140
  What
  I mean look at him
 
-940
+939
 005720230  005723230
  He doesnt look so good
  What are you talking about Im fine
 
-941
+940
 005723310  005728320
 Thats what they always say
 and then next thing you know
 youre on your back
 
-942
+941
 005728400  005730860
  Dead
  You know shes right
 
-943
+942
 005730950  005733820
 You look awful
 Do you want to sit down
 
-944
+943
 005733910  005736620
  Ill make you some tea
  I didnt want to say nothing
 
-945
+944
 005736700  005739450
 but I got this twinge in my neck
 and when I turn my head like this look
 
-946
+945
 005739540  005741460
  
  Ow See
 
-947
+946
 005741540  005744130
 Whos hungry Ill find us some dinner
 Ill get the firewood
 
-948
+947
 005744210  005748710
 Hey where you going
 Oh man I cant feel my toes
 
-949
+948
 005748800  005751300
 I dont have any toes
 
-950
+949
 005751380  005753720
 I think I need a hug
 
-951
+950
 005757260  005759520
 Mmm
 
-952
+951
 005759600  005803560
 Mmm This is good
 This is really good
 
-953
+952
 005805770  005808030
  What is this
  Uh weedrat
 
-954
+953
 005808110  005810240
 Rotisserie style
 
-955
+954
 005810320  005812820
 No kidding
 
-956
+955
 005812910  005814820
 Well this is delicious
 
-957
+956
 005814910  005816990
 Well theyre also great
 in stews
 
-958
+957
 005817080  005821330
 Now I dont mean to brag
 but I make a mean weedrat stew
 
-959
+958
 005821410  005824960
 
 
-960
+959
 005825040  005829170
  I guess Ill be dining
 a little differently tomorrow night
 
-961
+960
 005829250  005834340
  Maybe you can
 come visit me in the swamp sometime
 
-962
+961
 005834430  005836600
 Ill cook all kinds
 of stuff for you
 
-963
+962
 005836680  005840560
 Swamp toad soup fish eye tartare
 you name it
 
-964
+963
 005840640  005843770
 
 Id like that
 
-965
+964
 005843850  005847230
 
 
-972
+965
+005850690  005853900
+See the pyramids
+along the Nile
+
+966
+005853990  005856620
+Um Princess
+
+967
+005856700  005900950
+ Watch the sun rise
+from a tropic isle
+ Yes Shrek
+
+968
+005901040  005904870
+ I um I was wondering
+ Just remember darling
+all the while
+
+969
+005904960  005907210
+Are you
+
+970
+005907290  005909880
+You belong to me
+
+971
 005909960  005912760
 
 Are you gonna eat that
 
-973
+972
 005917550  005919470
 
 
-974
+973
 005919560  005923640
  Man isnt this romantic
 Just look at that sunset
  Sunset
 
-975
+974
 005923730  005926270
 Oh no
 I mean its late
 
-976
+975
 005926350  005928230
  IIts very late
  What
 
-977
+976
 005928310  005931230
 Wait a minute
 I see whats going on here
 
-978
+977
 005931320  005934280
  Youre afraid of the dark arent you
  Yes
 
-979
+978
 005934360  005938370
 Yes thats it Im terrified
 You know Id better go inside
 
-980
+979
 005938450  005941790
 Dont feel bad Princess I used to
 be afraid of the dark too until
 
-981
+980
 005941870  005944620
 Hey no wait
 Im still afraid of the dark
 
-982
+981
 005944710  005947880
  
  Good night
 
-983
+982
 005947960  005951000
 Good night
 
-984
+983
 005951090  005954130
  
   Ohh
 
-985
+984
 005954210  005956970
 Now I really see
 whats going on here
 
-986
+985
 005957050  005958970
 Oh what are you
 talking about
 
-987
+986
 005959050  010001810
 I dont even wanna hear it Look
 Im an animal and I got instincts
 
-988
+987
 010001890  010004310
 I know you two were digging
 on each other I could feel it
 
-989
+988
 010004390  010007230
 Youre crazy
 Im just bringing her back to Farquaad
 
-990
+989
 010007310  010010650
 Oh come on Shrek
 Wake up and smell the pheromones
 
-991
+990
 010010730  010013400
 Just go on in
 and tell her how you feel
  I
 
-992
+991
 010013480  010017490
 Theres nothing to tell
 Besides even if I did tell her that
 
-993
+992
 010017570  010019490
 well you know
 
-994
+993
 010019570  010023080
 and Im not saying I do
 cause I dont
 
-995
+994
 010023160  010025580
 shes a princess
 and Im
 
-996
+995
 010025660  010028330
 An ogre
 
-997
+996
 010028420  010031080
 Yeah An ogre
 
-998
+997
 010031170  010035210
  Hey where you going
  To get more firewood
 
-999
+998
 010045600  010047680
 
 
-1000
+999
 010054820  010056150
 Princess
 
-1001
+1000
 010056240  010058950
 Princess Fiona
 
-1002
+1001
 010103200  010106040
 Princess where are you
 
-1003
+1002
 010106120  010108660
 
 
-1004
+1003
 010111290  010113790
 Princess
 
-1005
+1004
 010113880  010116800
  
  
 
-1006
+1005
 010116880  010119630
 Its very spooky in here
 I am not playing no games
 
-1007
+1006
 010124140  010125890
 
 
-1008
+1007
 010129850  010132270
  Aah
  Oh no
  No help
 
-1009
+1008
 010132350  010135440
  Shh
  Shrek Shrek Shrek
  No its okay Its okay
 
-1010
+1009
 010135520  010138400
  What did you do with the princess
  Donkey Im the princess
 
-1011
+1010
 010138490  010141240
  Aah
  Its me in this body
 
-1012
+1011
 010141320  010143870
 Oh my God
 You ate the princess
 
-1013
+1012
 010143950  010145870
  Can you hear me
  Donkey
 
-1014
+1013
 010145950  010148290
  Listen keep breathing
 Ill get you out of there
  No
 
-1015
+1014
 010148370  010150830
  Shrek Shrek Shrek
  Shh
 
-1016
+1015
 010150910  010152750
  Shrek
  This is me
 
-1017
+1016
 010152830  010154750
 
 
-1018
+1017
 010157880  010200760
 Princess
 
-1019
+1018
 010200840  010204340
 What happened to you
 Youre uh uh
 
-1020
+1019
 010204430  010206350
 uh different
 
-1021
+1020
 010206430  010208680
  Im ugly okay
  Well yeah
 
-1022
+1021
 010208770  010211890
 Was it something you ate Cause
 I told Shrek those rats was a bad idea
 
-1023
+1022
 010211980  010214520
  You are what you eat I said Now
  No
 
-1024
+1023
 010214610  010217940
 I Ive been this way
 as Ion as I can remember
 
-1025
+1024
 010218030  010220490
 What do you mean Look
 I am not never seen you like this before
 
-1026
+1025
 010220570  010223740
 It only happens
 when the sun goes down
 
-1027
+1026
 010225160  010228790
 By night one way
 by day another
 
-1028
+1027
 010228870  010230910
 This shall be the norm
 
-1029
+1028
 010231000  010234120
 until you find
 true loves first kiss
 
-1030
+1029
 010234210  010238630
 and then
 take loves true form
 
-1031
+1030
 010238710  010242260
 Ah thats beautiful
 I didnt know you wrote poetry
 
-1032
+1031
 010242340  010244260
 Its a spell
 
-1033
+1032
 010244340  010246930
 
 When I was a little girl
 
-1034
+1033
 010247010  010249680
 a witch cast a spell
 on me
 
-1035
+1034
 010249770  010252310
 Every night I become this
 
-1036
+1035
 010252390  010256060
 This horrible ugly beast
 
-1037
+1036
 010258570  010303610
 I was placed in a tower to await the day
 my true love would rescue me
 
-1038
+1037
 010303700  010306280
 Thats why I have to marry
 Lord Farquaad tomorrow
 
-1039
+1038
 010306370  010309790
 before the sun sets
 and he sees me
 
-1040
+1039
 010311040  010314000
 like this
 
 
-1041
+1040
 010314080  010317330
 All right all right Calm down
 Look its not that bad
 
-1042
+1041
 010317420  010321590
 Youre not that ugly
 Well I am not gonna lie You are ugly
 
-1043
+1042
 010321670  010324680
 But you only look like this at night
 Shreks ugly 247
 
-1044
+1043
 010324760  010328140
 But Donkey
 Im a princess
 
-1045
+1044
 010328220  010331810
 and this is not how a princess
 is meant to look
 
-1046
+1045
 010331890  010335640
 Princess how bout if you
 dont marry Farquaad
 
-1047
+1046
 010335730  010337650
 I have to
 
-1048
+1047
 010337730  010340570
 Only my true loves kiss
 can break the spell
 
-1049
+1048
 010340650  010344190
 But you know um
 youre kind of an ogre
 
-1050
+1049
 010344280  010347700
 and Shrek well
 you got a lot in common
 
-1051
+1050
 010347780  010349280
 Shrek
 
-1052
+1051
 010349370  010353200
 Princess I
 Uh hows it going first of all
 
-1053
+1052
 010353290  010356080
 Good
 Um good for me too
 
-1054
+1053
 010356170  010358080
 Im okay
 
-1055
+1054
 010358170  010403050
 I saw this flower and thought of you
 because its pretty and
 
-1056
+1055
 010403130  010407380
 well I dont really like it
 but I thought you might like it
 cause youre pretty
 
-1057
+1056
 010407470  010410680
 But I like you anyway
 Id uh uh
 
-1058
+1057
 010410760  010412760
 
 
-1059
+1058
 010412850  010416390
 Im in trouble
 Okay here we go
 
-1060
+1059
 010416480  010418980
 
 I cant just marry whoever want
 
-1061
+1060
 010419060  010421360
 Take a good look
 at me Donkey
 
-1062
+1061
 010421440  010423360
 I mean really
 
-1063
+1062
 010423440  010426110
 who could ever love a beast
 so hideous and ugly
 
-1064
+1063
 010426200  010428610
 Princessand ugly
 dont go together
 
-1065
+1064
 010428700  010431120
  Thats why I cant
 stay here with Shrek
  
 
-1066
+1065
 010431200  010435620
 My only chance to live happily
 ever after is to marry my truelove
 
-1067
+1066
 010435700  010439120
  
  Dont you see Donkey
 
-1068
+1067
 010439210  010442500
 Thats just how
 it has to be
 
-1069
+1068
 010442590  010445630
 Its the only way
 to break the spell
 
-1070
+1069
 010445710  010448470
  You at least gotta
 tell Shrek the truth
  No
 
-1071
+1070
 010448550  010451470
 You cant breathe a word
 No one must ever know
 
-1072
+1071
 010451550  010453680
 Whats the point of being able to talk
 if you gotta keep secrets
 
-1073
+1072
 010453760  010456890
 Promise you wont tell
 Promise
 
-1074
+1073
 010456980  010500060
 All right all right
 I wont tell him But you should
 
-1075
+1074
 010500150  010503150
 I just know before this is over
 Im gonna need a whole lot
 of serious therapy
 
-1076
+1075
 010503230  010506780
  Look at my eye twitching
  
 
-1077
+1076
 010525880  010529380
 
 
-1078
+1077
 010529470  010533220
 
 I tell him I tell him not
 
-1079
+1078
 010533680  010537680
 I tell him
 I tell him not
 
-1080
+1079
 010537770  010539690
 I tell him
 
-1081
+1080
 010539770  010541850
 Shrek
 
-1082
+1081
 010541940  010544480
 Shrek theres something
 I want
 
-1083
+1082
 010544570  010547570
 
 
-1084
+1083
 010605290  010607500
 Shrek
 
-1085
+1084
 010608920  010610970
  Are you all right
  Perfect
 
-1086
+1085
 010611050  010613010
 Never been better
 
-1087
+1086
 010613090  010616390
 I I dont
 Theres something I have to tell you
 
-1088
+1087
 010616470  010619020
 You dont have to tell me
 anything Princess
 
-1089
+1088
 010619100  010621190
  I heard enough last night
  You heard what I said
 
-1090
+1089
 010621270  010623190
 Every word
 
-1091
+1090
 010623270  010625440
 I thought youd understand
 
-1092
+1091
 010625520  010627440
 Oh I understand
 
-1093
+1092
 010627520  010631110
 Like you said Who could
 love a hideous ugly beast
 
-1094
+1093
 010631200  010633860
 But I thought that
 wouldnt matter to you
 
-1095
+1094
 010633950  010635700
 Yeah Well it does
 
-1096
+1095
 010635780  010638200
 
 
-1097
+1096
 010638290  010640500
  Ah right on time
  
 
-1098
+1097
 010640580  010643460
 Princess Ive brought you
 a little something
 
-1099
+1098
 010643540  010647790
-  
 
-1100
+
+1099
 010647880  010651550
 
 Whatd I miss Whatd I miss
 
-1101
+1100
 010651630  010654260
  Who said that
 Couldnt have been a donkey
 
-1102
+1101
 010655640  010658100
 Princess Fiona
 
-1103
+1102
 010658180  010700890
 As promised
 Now hand it over
 
-1104
+1103
 010700970  010705230
 Very well ogre The deed
 to your swamp cleared out as agreed
 
-1105
+1104
 010705310  010709860
 Take it and go
 before I change my mind
 
-1106
+1105
 010709940  010712780
 Forgive me Princess
 for startling you
 
-1107
+1106
 010712860  010714780
 but you startled me
 
-1108
+1107
 010714860  010718530
 for I have never seen
 such a radiant beauty before
 
-1109
+1108
 010718620  010721620
 I am Lord Farquaad
 
-1110
+1109
 010721700  010725580
 Lord Farquaad
 Oh no no
 
-1111
+1110
 010725670  010728630
  
  Forgive me my Lord
 for I was just saying
 
-1112
+1111
 010728710  010734170
 a short farewell
 
-1113
+1112
 010734260  010738890
 That is so sweet You dont have
 to waste good manners on the ogre
 
-1114
+1113
 010738970  010740890
 Its not like
 it has feelings
 
-1115
+1114
 010740970  010744940
 No youre right
 It doesnt
 
-1116
+1115
 010745020  010749020
 Princess Fiona beautiful fair
 flawless Fiona
 
-1117
+1116
 010749110  010752110
  I ask your hand in marriage
  
 
-1118
+1117
 010752190  010757240
 Will you be the perfect bride
 for the perfect groom
 
-1119
+1118
 010800530  010805710
 Lord Farquaad I accept
 Nothing would make
 
-1120
+1119
 010805790  010808960
 Excellent Ill start the plans
 for tomorrow we wed
 
-1121
+1120
 010809040  010810960
 No I mean uh
 
-1122
+1121
 010811040  010813420
 why wait
 
-1123
+1122
 010813510  010817340
 Lets get married today
 before the sun sets
 
-1124
+1123
 010817430  010820140
 Oh anxious are we
 Youre right
 
-1125
+1124
 010820220  010824140
 The sooner the better
 Theres so much to do
 
-1126
+1125
 010824220  010826560
 Theres the caterer
 the cake the band the guest list
 
-1127
+1126
 010826640  010829650
 Captain round up
 some guests
 
-1128
+1127
 010829730  010832440
 
 Faretheewell ogre
 
-1129
+1128
 010832520  010835110
 Shrek what are you doing
 Youre letting her get away
 
-1130
+1129
 010835190  010837910
  Yeah So what
  Shrek theres something
 about her you dont know
 
-1131
+1130
 010837990  010840410
 Look I talked to her
 last night Shes
 
-1132
+1131
 010840490  010844540
 I know you talked to her last night
 Youre great pals arent ya
 
-1133
+1132
 010844620  010848370
 Now if you two are such good friends
 why dont you follow her home
 
-1134
+1133
 010848460  010850420
 Shrek I
 I wanna go with you
 
-1135
+1134
 010850500  010853460
 I told you didnt I
 Youre not coming home with me
 
-1136
+1135
 010853550  010857510
 I live alone
 My swamp Me Nobody else
 
-1137
+1136
 010857590  010859680
 Understand Nobody
 
-1138
+1137
 010859760  010904600
 Especially useless pathetic
 annoying talking donkeys
 
-1139
+1138
 010904680  010907850
  But I thought
  Yeah You know what
 
-1140
+1139
 010907940  010910150
 You thought wrong
 
-1141
+1140
 010911900  010913820
 Shrek
 
-1172
+1141
+010919610  010923620
+I heard there was
+a secret chord
+
+1142
+010923700  010926750
+That David played
+and it pleased the Lord
+
+1143
+010926830  010931670
+But you dont really
+care for music do ya
+
+1144
+010933420  010936760
+It goes like this
+the fourth the fifth
+
+1145
+010936840  010939380
+The minor fall
+the major lift
+
+1146
+010939470  010946100
+The baffled king
+composing hallelujah
+
+1147
+010946180  010949430
+Hallelujah
+
+1148
+010949520  010952940
+Hallelujah
+
+1149
+010953020  010956940
+Hallelujah
+
+1150
+010957030  011001780
+Hallelujah
+
+1151
+011003700  011007200
+Baby Ive been here before
+
+1152
+011007290  011010410
+I know this room
+Ive walked this floor
+
+1153
+011010500  011015590
+I used to live alone
+before I knew you
+
+1154
+011017300  011020380
+Ive seen your flag
+on the marble arch
+
+1155
+011020470  011023800
+But love is not
+a victory march
+
+1156
+011023890  011028310
+Its a cold
+and its a broken hallelujah
+
+1157
+011029930  011033060
+Hallelujah
+
+1158
+011033150  011036270
+Hallelujah
+
+1159
+011036360  011039400
+Hallelujah
+
+1160
+011039480  011044990
+Hallelujah
+
+1161
+011046740  011050580
+And all I ever
+learned from love
+
+1162
+011050660  011053040
+I show to shoot at someone
+
+1163
+011053120  011055710
+ Who outdrew you
+ 
+
+1164
+011055790  011059510
+And its not a cry
+you can hear at night
+
+1165
+011059590  011102630
+Its not somebody
+whos seen the light
+
+1166
+011102720  011109770
+ Its a cold
+and its a broken hallelujah
+ 
+
+1167
+011109850  011112640
+Hallelujah
+
+1168
+011112730  011115980
+Hallelujah
+
+1169
+011116060  011119320
+Hallelujah
+
+1170
+011119400  011125990
+Hallelujah
+
+1171
 011129580  011132580
 
 
-1173
+1172
 011134290  011136290
 Donkey
 
-1174
+1173
 011136380  011138590
  
  What are you doing
 
-1175
+1174
 011138670  011141630
 I would think of all people you would
 recognise a wall when you see one
 
-1176
+1175
 011141710  011143630
 Well yeah
 
-1177
+1176
 011143720  011147090
 But the walls supposed
 to go around my swamp not through it
 
-1178
+1177
 011147180  011149970
 It is around your half See
 thats your half and this is my half
 
-1179
+1178
 011150060  011152640
 Oh Your half Hmm
 
-1180
+1179
 011152720  011155270
 Yes my half
 I helped rescue the princess
 
-1181
+1180
 011155350  011157600
 I did half the work
 I get half the booty
 
-1182
+1181
 011157690  011201020
 Now hand me that big old rock
 the one that looks like your head
 
-1183
+1182
 011201110  011203440
  Back off
  No you back off
 
-1184
+1183
 011203530  011205530
  This is my swamp
  Our swamp
 
-1185
+1184
 011205610  011207530
  Let go Donkey
  You let go
 
-1186
+1185
 011207610  011209580
  Stubborn jackass
  Smelly ogre
 
-1187
+1186
 011209660  011211870
 Fine
 
-1188
+1187
 011211950  011215290
  Hey come back here
 Im not through with you yet
  Well Im through with you
 
-1189
+1188
 011215370  011218630
 Uhuh You know
 with you its always Me me me
 
-1190
+1189
 011218710  011221300
 Well guess what
 Now its my turn
 
-1191
+1190
 011221380  011223510
 So you just shut up
 and pay attention
 
-1192
+1191
 011223590  011225550
 You are mean to me
 
-1193
+1192
 011225630  011228140
 You insult me and you dont
 appreciate anything that I do
 
-1194
+1193
 011228220  011231310
 Youre always pushing me around
 or pushing me away
 
-1195
+1194
 011231390  011235230
 Oh yeah Well if I treated you
 so bad how come you came back
 
-1196
+1195
 011235310  011238520
 Because thats what friends do
 They forgive each other
 
-1197
+1196
 011238600  011241820
 Oh yeah
 Youre right Donkey
 
-1198
+1197
 011241900  011246110
 I forgive you
 for stabbing me in the back
 
-1199
+1198
 011246200  011251620
 Ohh Youre so wrapped up
 in layers onion boy youre
 afraid of your own feelings
 
-1200
+1199
 011251700  011255160
  Go away
  There you are doing it again
 just like you did to Fiona
 
-1201
+1200
 011255250  011257830
 All she ever do was like you
 maybe even love you
 
-1202
+1201
 011257920  011302040
 Love me She said I was ugly
 a hideous creature
 
-1203
+1202
 011302130  011304050
 I heard the two of you
 talking
 
-1204
+1203
 011304130  011306050
 She wasnt talking about you
 
-1205
+1204
 011306130  011308470
 She was talking about uh
 somebody else
 
-1206
+1205
 011311010  011313430
 She wasnt talking
 about me
 
-1207
+1206
 011313510  011315810
 Well then who was
 she talking about
 
-1208
+1207
 011315890  011318600
 Uhuh no way I am not saying anything
 You dont wanna listen to me
 
-1209
+1208
 011318690  011320980
  Right Right
  Donkey
 
-1210
+1209
 011321060  011323610
  No
  Okay look
 
-1211
+1210
 011323690  011325610
 Im sorry all right
 
-1212
+1211
 011327240  011329150
 Hmph
 
-1213
+1212
 011330490  011334120
 
 Im sorry
 
-1214
+1213
 011334200  011338460
 I guess I am just a big
 stupid ugly ogre
 
-1215
+1214
 011339670  011341630
 Can you forgive me
 
-1216
+1215
 011343840  011345750
 Hey thats what friends
 are for right
 
-1217
+1216
 011345840  011348510
 Right Friends
 
-1218
+1217
 011348590  011350510
 Friends
 
-1219
+1218
 011350590  011353550
 So um
 
-1220
+1219
 011353640  011355890
 what did Fiona
 say about me
 
-1221
+1220
 011355970  011359100
 What are you asking me for
 Why dont you just go ask her
 
-1222
+1221
 011359180  011402190
 The wedding
 Well never make it in time
 
-1223
+1222
 011402270  011405480
 Hahaha Never fear for where
 theres a will theres a way
 
-1224
+1223
 011405570  011407690
 and I have a way
 
 
-1225
+1224
 011412070  011414530
  Donkey
  
 
-1226
+1225
 011414620  011416990
 I guess its just
 my animal magnetism
 
-1227
+1226
 011417080  011420250
 
 Aw come here you
 
-1228
+1227
 011420330  011423130
 All right all right Dont get
 all slobbery No one likes a kiss ass
 
-1229
+1228
 011423210  011425750
 All right hop on
 and hold on tight
 
-1230
+1229
 011425840  011429340
 I havent had a chance to
 install the seat belts yet
 
-1231
+1230
 011435760  011438270
 
 Whoo
 
-1232
+1231
 011451780  011455660
 
 
-1233
+1232
 011458790  011500910
 
 
-1234
+1233
 011501000  011503540
 People of DuLoc
 
-1235
+1234
 011503620  011506290
 we gather here today
 
-1236
+1235
 011506380  011508420
 to bear witness
 
-1237
+1236
 011508500  011510420
  to the union
  Um
 
-1238
+1237
 011510510  011512970
  of our new king
  Excuse me
 
-1239
+1238
 011513050  011515720
  Could we just skip ahead
 to the I dos
  
 
-1240
+1239
 011515800  011517720
 Go on
 
-1241
+1240
 011522770  011526400
 Go ahead have some fun If we
 need you Ill whistle How about that
 
-1242
+1241
 011529020  011530940
 Shrek wait wait
 Wait a minute
 
-1243
+1242
 011531030  011533700
  You wanna do this right dont you
  What are you talking about
 
-1244
+1243
 011533780  011535700
 Theres a line you
 gotta wait for
 
-1245
+1244
 011535780  011538280
 The preachers gonna say Speak now
 or forever hold your peace
 
-1246
+1245
 011538370  011542120
  Thats when you say I object
  I dont have time for this
 
-1247
+1246
 011542200  011543910
 Wait What are you doing
 Listen to me
 
-1248
+1247
 011544000  011545920
  Look you love this woman dont you
  Yes
 
-1249
+1248
 011546000  011547290
  You wanna hold her
  Yes
 
-1250
+1249
 011547380  011549590
  Please her
  Yes
 
-1252
+1250
+011549670  011552300
+Then you got to got to
+try a little tenderness
+
+1251
 011552380  011555130
  The chicks love that romantic crap
  All right Cut it out
 
-1253
+1252
 011555220  011558850
  When does this guy say the line
  We gotta check it out
 
-1254
+1253
 011558930  011602100
  
  And so by the power vested in me
 
-1255
+1254
 011602180  011605440
   What do you see
  The whole towns in there
 
-1256
+1255
 011605520  011608650
  I now pronounce you husband and wife
  Theyre at the altar
 
-1257
+1256
 011608730  011611280
  king and queen
  Mother Fletcher He already said it
 
-1258
+1257
 011611360  011613990
  Oh for the love of Pete
  
 
-1259
+1258
 011615240  011617280
 I object
 
-1260
+1259
 011617360  011619450
  Shrek
  
 
-1261
+1260
 011619530  011621450
 Oh now what
 does he want
 
-1262
+1261
 011621540  011624960
 
 
-1263
+1262
 011625040  011628080
 Hi everyone
 Having a good time are ya
 
-1264
+1263
 011628170  011630380
 I love DuLoc
 first of all
 
-1265
+1264
 011630460  011632960
  Very clean
  What are you doing here
 
-1266
+1265
 011633050  011635970
 Really its rude enough
 being alive when no one wants you
 
-1267
+1266
 011636050  011639390
 but showing up uninvited to a wedding
 Fiona
 
-1268
+1267
 011639470  011642470
  I need to talk to you
  Oh now you wanna talk
 
-1269
+1268
 011642560  011645520
 Its a little late for that
 so if youll excuse me
 
-1270
+1269
 011645600  011647980
  But you cant marry him
  And why not
 
-1271
+1270
 011648060  011651940
 Because Because hes just
 marrying you so he can be king
 
-1272
+1271
 011652020  011654400
 Outrageous
 Fiona dont listen to him
 
-1273
+1272
 011654480  011658110
  Hes not your true love
  And what do you know about true love
 
-1274
+1273
 011658200  011700570
 Well I Uh
 
-1275
+1274
 011700660  011704040
  I mean
  Oh this is precious
 
-1276
+1275
 011704120  011708790
  The ogre
 has fallen in love with the princess
 
-1277
+1276
 011708870  011711130
  Oh good Lord
  
 
-1278
+1277
 011711210  011713130
 An ogre and a princess
 
-1279
+1278
 011713210  011716470
 
 
-1280
+1279
 011718760  011721260
 Shrek
 is this true
 
-1281
+1280
 011722680  011725220
 Who cares
 Its preposterous
 
-1282
+1281
 011725310  011728940
 Fiona my love were but a kiss away
 from our happily ever after
 
-1283
+1282
 011729020  011731610
 Now kiss me
 Mmmm
 
-1284
+1283
 011735690  011739030
 By night one way
-by day another 
+by day another
 
-1285
+1284
 011740950  011743700
 I wanted to show you before
 
-1286
+1285
 011802590  011806180
  
  
 
-1287
+1286
 011806270  011808810
 Well uh
 
-1288
+1287
 011808890  011810890
 that explains a lot
 
-1289
+1288
 011810980  011814650
 
 Ugh Its disgusting
 
-1290
+1289
 011814730  011816780
 Guards Guards
 
-1291
+1290
 011816860  011820030
 I order you to get that
 out of my sight now Get them
 
-1292
+1291
 011820110  011822910
  Get them both
  No no
 
-1293
+1292
 011822990  011826740
 This hocuspocus alters nothing
 This marriage is binding
 and that makes me king
 
-1294
+1293
 011826830  011829120
  See See
  No let go of me Shrek
 
-1295
+1294
 011829200  011830910
  No
   Dont just
 stand there you morons
 
-1296
+1295
 011831000  011833540
 Get out of my way
 Fiona
 
-1297
+1296
 011836210  011838710
 Arrgh
 
-1298
+1297
 011838800  011841800
 Ill make you regret the day we met
 Ill see you drawn and quartered
 
-1299
+1298
 011841880  011844800
  Youll beg for death to save you
  No Shrek
 
-1300
+1299
 011844890  011848390
  And as for you my wife
  Fiona
 
-1301
+1300
 011848470  011851140
 Ill have you locked back in that tower
 for the rest of your days
 
-1302
+1301
 011851230  011853060
  I am king
  
 
-1303
+1302
 011853150  011856940
 I will have order
 I will have perfection I will have
 
-1304
+1303
 011858230  011901280
 Aaah
 
-1305
+1304
 011901360  011904110
  Aah
  All right Nobody move
 
-1306
+1305
 011904200  011906280
 I got a dragon here
 and Im not afraid to use it
 
-1307
+1306
 011906370  011908990
  
  Im a donkey on the edge
 
-1308
+1307
 011910410  011913580
  
  
 
-1309
+1308
 011913670  011916080
 Celebrity marriages
 They never last do they
 
-1310
+1309
 011916170  011918170
 
 
-1311
+1310
 011918250  011920090
 Go ahead Shrek
 
-1312
+1311
 011921470  011923760
 Uh Fiona
 
-1313
+1312
 011924890  011927100
 Yes Shrek
 
-1314
+1313
 011927180  011931230
 I I love you
 
-1315
+1314
 011931310  011933560
 Really
 
-1316
+1315
 011934650  011937650
 Really really
 
-1317
+1316
 011937730  011939650
 I love you too
 
-1318
+1317
 011945110  011946780
 
 Aawww
 
-1319
+1318
 011948700  011951950
  Until you
 find trueloves first kiss
 
-1320
+1319
 011952040  011955330
 
-and then take loves true form 
+and then take loves true form
 
-1321
+1320
 012018900  012021820
  Take loves
-true form Take loves true form 
+true form Take loves true form
 
-1322
+1321
 012027990  012030490
 Fiona
 
-1323
+1322
 012033000  012035580
 Fiona
 
-1324
+1323
 012035660  012038210
 Are you all right
 
-1325
+1324
 012038290  012040210
 Well yes
 
-1326
+1325
 012040290  012043550
 But I dont understand
 
-1327
+1326
 012043630  012045760
 Im supposed to be beautiful
 
-1328
+1327
 012048470  012050720
 But you are beautiful
 
-1329
+1328
 012050800  012053020
 
 
-1330
+1329
 012053270  012055730
 I was hoping this would be
 a happy ending
 
-1351
+1330
+012059520  012103940
+I thought love was only true
+in fairy tales
+
+1331
+012104030  012105490
+
+Oy
+
+1332
+012105570  012109280
+Meant for someone else
+but not for me
+
+1333
+012111700  012114660
+Love was out to get me
+
+1334
+012114750  012117540
+Thats the way it seemed
+
+1335
+012117620  012122090
+Disappointment
+haunted all my dreams
+
+1336
+012122170  012125460
+And then I saw her face
+
+1337
+012125550  012128340
+Now Im a believer
+
+1338
+012128430  012130970
+And not a trace
+
+1339
+012131050  012133810
+Of doubt in my mind
+
+1340
+012133890  012137940
+ Im in love
+ Oohahh
+
+1341
+012138020  012140480
+Im a believer
+I couldnt leave her
+
+1342
+012140560  012142770
+If I tried
+
+1343
+012142860  012146900
+God bless us every one
+
+1344
+012146990  012150530
+Come on yall
+Then I saw her face Haha
+
+1345
+012150610  012153740
+Now Im a believer
+Listen
+
+1346
+012153830  012156620
+Not a trace
+
+1347
+012156700  012159500
+Of doubt in my mind
+
+1348
+012159580  012202840
+Im in love
+Oohahh
+
+1349
+012202920  012207170
+Im a believer
+I couldnt leave her if I tried
+
+1350
 012207260  012210130
  Ooh
  Uh
 
-1357
+1351
+012210220  012212800
+Then I saw her face
+
+1352
+012212890  012215850
+Now Im a believer
+Hey
+
+1353
+012215930  012218730
+Not a trace
+Uhh Yeah
+
+1354
+012218810  012222060
+Of doubt in my mind
+One more time
+
+1355
+012222150  012226690
+Im in love
+Im a believer
+
+1356
 012226780  012228610
 Come on
 
-1367
+1357
+012228690  012230610
+I believe I believe
+I believe I believe
+
+1358
+012230700  012233370
+I believe I believe
+I believe I believe I believe hey
+
+1359
+012233450  012236030
+Yall sing it with me
+I
+
+1360
+012236120  012237790
+Believe
+
+1361
+012237870  012240830
+I believe
+People in the back
+
+1362
+012240910  012243830
+ I believe
+ Im a believer
+
+1363
+012243920  012246880
+I believe
+
+1364
+012246960  012249840
+I believe
+
+1365
+012249920  012254340
+I believe
+
+1366
 012254430  012256680
 
 
-1368
+1367
 012256760  012259020
 Oh thats funny
 Oh Oh
 
-1369
+1368
 012259100  012301730
 I cant breathe
 I cant breathe
 
-1448
+1369
+012302640  012304940
+I believe in selfassertion
+
+1370
+012305020  012307190
+Destiny or
+as light diversion
+
+1371
+012307270  012311570
+Now it seems
+Ive got my head on straight
+
+1372
+012311650  012313780
+Im a freak
+an apparition
+
+1373
+012313860  012315990
+Seems Ive made
+the right decision
+
+1374
+012316070  012319700
+To try to turn back now
+it might be too late
+
+1375
+012319790  012324120
+ I want to stay home today
+ Dont wanna go out
+
+1376
+012324210  012328550
+ If anyone comes to play
+ Gonna get thrown out
+
+1377
+012328630  012332970
+ I wanna stay home today
+ Dont want no company
+
+1378
+012333050  012335510
+No way
+
+1379
+012335590  012338260
+Yeah yeah yeah
+
+1380
+012338350  012340560
+I wanna be a millionaire
+some day
+
+1381
+012340640  012342810
+But know what it feels like
+to give it away
+
+1382
+012342890  012346310
+Watch me march
+to the beat of my own drum
+
+1383
+012346400  012348980
+And its off to the moon
+and then back again
+
+1384
+012349070  012351150
+Same old day
+Same situation
+
+1385
+012351240  012355410
+My happiness rears back
+as if to say
+
+1386
+012355490  012359790
+ I wanna stay home today
+ Dont wanna go out
+
+1387
+012359870  012404250
+ If anyone comes my way
+ Gonna get thrown out
+
+1388
+012404330  012408750
+ I wanna stay home today
+ Dont want no company
+
+1389
+012408840  012411300
+No way
+
+1390
+012411380  012414010
+Yeah yeah yeah
+
+1391
+012417850  012422680
+I wanna stay home
+stay home stay home
+
+1392
+012422770  012427810
+ I wanna stay home today
+ Dont wanna go out
+
+1393
+012427900  012432190
+ If anyone comes to play
+ Gonna get thrown out
+
+1394
+012432280  012435110
+I wanna stay home today
+
+1395
+012435200  012439200
+Dont want no company
+No way
+
+1396
+012439280  012442120
+Yeah yeah yeah
+
+1397
+012455920  012459890
+I get such a thrill
+when you looking my eyes
+
+1398
+012459970  012504140
+My heart skips a beat
+Girl I feel so alive
+
+1399
+012504220  012507980
+Please tell me baby
+if all this is true
+
+1400
+012508060  012512150
+Cause deep down inside
+all I wanted was you
+
+1401
+012512230  012516150
+Ohohoh
+Makes me wanna dance
+
+1402
+012516240  012520120
+Ohohoh
+Its a new romance
+
+1403
+012520200  012524160
+Ohohoh
+I look into your eyes
+
+1404
+012524240  012528120
+Ohohoh
+The best years of our lives
+
+1405
+012528210  012532000
+When we first met
+I could hardly believe
+
+1406
+012532090  012536050
+The things that would happen
+and we could achieve
+
+1407
+012536130  012539840
+So lets be together
+for all of our time
+
+1408
+012539930  012543810
+Oh girl Im so thankful
+that you are still mine
+
+1409
+012543890  012545970
+You always consider me
+like an ugly duckling
+
+1410
+012546060  012548520
+And treat me like a Nostradamus
+was why I had to get my shine on
+
+1411
+012548600  012550650
+I break a little something
+to keep my mind on
+
+1412
+012550730  012553150
+Cause you had my mind gone
+Eheh eheh eheh
+
+1413
+012553230  012556070
+Turn the lights on Come on baby
+Lets just rewind the song
+
+1414
+012556150  012558280
+Cause all I want to do is
+make the rest years the best years
+
+1415
+012558360  012600360
+All night long
+
+1416
+012600450  012604160
+ Ohohoh makes me wanna dance
+ Makes me wanna dance
+
+1417
+012604240  012608160
+ Ohohoh its a new romance
+ Its a new romance
+
+1418
+012608250  012611420
+ Ohohoh I look into your eyes
+ Oh yeah yeah
+
+1419
+012611500  012614170
+ Look into your eyes
+ Ohohoh
+
+1420
+012614250  012616380
+ The best years of our lives
+ Yeah yeah yeah yeah
+
+1421
+012616460  012620180
+ Ohohoh makes me wanna dance
+ Whoaohoh dance yeah
+
+1422
+012620260  012624180
+Ohohoh
+Its a new romance
+
+1423
+012624260  012628230
+ Ohohoh I look into your eyes
+ Look into your eyes yeah
+
+1424
+012628310  012632940
+Ohohoh
+The best years of our lives
+
+1425
+012633020  012635860
+Everything looks bright
+
+1426
+012635940  012638190
+Standing in your light
+
+1427
+012638280  012640610
+Everything feels right
+
+1428
+012640700  012643780
+Whats left is out of sight
+
+1429
+012643870  012648450
+Whats a girl to do
+Im telling you youre on my mind
+
+1430
+012648540  012651120
+I wanna be with you
+
+1431
+012651210  012653500
+Cause when youre
+standing next to me
+
+1432
+012653580  012655500
+Its like wow
+
+1433
+012655590  012658710
+And all your kisses
+seem to set me free
+
+1434
+012658800  012700630
+Its like wow
+
+1435
+012700720  012704050
+And when we touch
+its such a rush I cant get enough
+
+1436
+012704140  012706810
+Its like Its like
+Oohooh
+
+1437
+012706890  012709430
+Hey what
+
+1438
+012709520  012712810
+Its like wow
+Oohooh hey
+
+1439
+012712900  012716150
+Hey yeah
+Its like wow
+
+1440
+012716230  012719860
+Everything is looking
+right now right now
+
+1441
+012719940  012723160
+ Its like wow
+ And I got this feeling
+
+1442
+012723240  012726120
+This feeling
+its just like wow
+
+1443
+012726200  012728450
+Its just like wow
+
+1444
+012728540  012730500
+ You are all Im thinking of
+ Like wow
+
+1445
+012730580  012734960
+Everything feels right
+Everything feels right
+
+1446
+012735040  012737460
+ Like wow
+ Everything looks bright
+
+1447
 012737540  012740130
 All my senses are right
+
+1448
+012740210  012742590
+ Like wow
+ Everything feels right
+
+1449
+012742670  012746010
+Baby baby baby
+the way Im feeling you
+
+1450
+012746090  012748010
+Is like wow
+
+1451
+012748100  012751020
+
+
+1452
+012808620  012812160
+There is something
+that I see
+
+1453
+012812250  012815670
+In the way
+you look at me
+
+1454
+012815750  012819170
+Theres a smile
+Theres a truth
+
+1455
+012819250  012822670
+In your eyes
+
+1456
+012822760  012826090
+What an unexpected way
+
+1457
+012826180  012829560
+On this unexpected day
+
+1458
+012829640  012831560
+Could it be
+
+1459
+012831640  012836560
+This is where I belong
+
+1460
+012836650  012840020
+It is you I have loved
+
+1461
+012840110  012843110
+All along
+
+1462
+012843190  012846910
+Theres no more mystery
+
+1463
+012846990  012850450
+It is finally clear to me
+
+1464
+012850530  012854200
+Youre the home
+my hearts searched for
+
+1465
+012854290  012857290
+So long
+
+1466
+012857370  012900960
+It is you I have loved
+
+1467
+012901040  012904970
+All along
+
+1468
+012932160  012936000
+Whoa over and over
+
+1469
+012936080  012941170
+Im filled with emotion
+
+1470
+012941250  012944210
+As I look
+
+1471
+012944300  012948930
+Into your perfect face
+
+1472
+012949300  012950930
+ THE END 
