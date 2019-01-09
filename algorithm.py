@@ -143,8 +143,8 @@ def graph_plot(path):
     plt.ylim(y_min-0.01, y_max+0.01)
     plt.xlim(0, 1)
     plt.xlabel('Speaker Change')
-    plt.ylabel('Difference between Clk1 and Clk2 ')
-    plt.title('Graph')
+    plt.ylabel('DV')
+    plt.title('Shrek')
     plt.show()
 
 
@@ -163,8 +163,6 @@ def clean_subtitles(path):
 def derivative_and_find_index(path, num_of_max, num_of_min):
     elements = []
     derivative_list = []
-    #max_value = [None] * num_of_max
-    #min_value = [None] * num_of_min
 
     csv_file = open(path, 'r')
     csv_reader = csv.reader(csv_file)
@@ -205,6 +203,7 @@ def derivative_and_find_index(path, num_of_max, num_of_min):
     for n in min_max_index:
         min_max_value.append(float(elements[n]))
 
+    #  We choose the number of min and max points
     max_values = nlargest(num_of_max, min_max_value)
     min_values = nsmallest(num_of_min, min_max_value)
 
@@ -295,6 +294,7 @@ def find_word_index_with_matching_sequences(normal_word_list, script_path, srt_p
                 else:
                     count_2 += 1
                     continue
+    print(srt_sentence_index)
     return srt_sentence_index
 
 
